@@ -1,0 +1,452 @@
+[
+    {
+        "repo_name": "ClickHouse___clickhouse-java",
+        "commit": "ecf6ff5714a8c82fd1f3be9906ef83916177c712",
+        "p_path": "src/main/java/ru/yandex/clickhouse/ClickHouseStatementImpl.java",
+        "t_path": "src/test/java/ru/yandex/clickhouse/ClickHouseStatementTest.java",
+        "p_name": "sendstream",
+        "t_name": "testisselect",
+        "Reason": "Modifications caused by external changes"
+    },
+    {
+        "repo_name": "eobermuhlner___big-math",
+        "commit": "11acc9f38c04c0e45a9d8c7e5035b8470aeb334b",
+        "p_path": "ch.obermuhlner.math.big/src/main/java/ch/obermuhlner/math/big/BigRational.java",
+        "t_path": "ch.obermuhlner.math.big/src/test/java/ch/obermuhlner/math/big/BigRationalTest.java",
+        "p_name": "tointegerrationalstring",
+        "t_name": "testtointegerrationalstring",
+        "Reason": "Casual modifications to tests by developers "
+    },
+    {
+        "repo_name": "oracle___opengrok",
+        "commit": "0885122034e4f74398faec6f3edba0bed72a9629",
+        "p_path": "opengrok-indexer/src/main/java/org/opengrok/indexer/history/GitRepository.java",
+        "t_path": "opengrok-indexer/src/test/java/org/opengrok/indexer/history/GitRepositoryTest.java",
+        "p_name": "getfiles",
+        "t_name": "testhistory",
+        "Reason": "Unclear"
+    },
+    {
+        "repo_name": "rsocket___rsocket-java",
+        "commit": "5c6dd9bf79d2295fb7eba613ff4b7fcde18cf827",
+        "p_path": "reactivesocket-core/src/main/java/io/reactivesocket/ServerReactiveSocket.java",
+        "t_path": "reactivesocket-core/src/test/java/io/reactivesocket/ServerReactiveSocketTest.java",
+        "p_name": "handlekeepaliveframe",
+        "t_name": "testhandlekeepalive",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "apache___karaf",
+        "commit": "544752b7f18bb28cccf264839e453fbf057381b7",
+        "p_path": "gshell/gshell-features/src/main/java/org/apache/servicemix/kernel/gshell/features/internal/FeaturesServiceImpl.java",
+        "t_path": "gshell/gshell-features/src/test/java/org/apache/servicemix/kernel/gshell/features/FeaturesServiceTest.java",
+        "p_name": "installfeature",
+        "t_name": "testinstallfeature",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "alibaba___jetcache",
+        "commit": "0d4531b8d6caae50782e005566e990025fc04113",
+        "p_path": "jetcache-core/src/main/java/com/taobao/geek/jetcache/local/AbstractLocalCache.java",
+        "t_path": "jetcache-core/src/test/java/com/taobao/geek/jetcache/local/AbstractLocalCacheTest.java",
+        "p_name": "get",
+        "t_name": "testexpire",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "deepjavalibrary___djl",
+        "commit": "887bc6f136706efbaeb1cad783e710ec16293078",
+        "p_path": "extensions/fasttext/src/main/java/ai/djl/fasttext/jni/FtWrapper.java",
+        "t_path": "extensions/fasttext/src/test/java/ai/djl/fasttext/CookingStackExchangeTest.java",
+        "p_name": "predictproba",
+        "t_name": "testtextclassification",
+        "Reason": "Incorrect results of structural dependency tools"
+    },
+    {
+        "repo_name": "OpenHFT___Chronicle-Wire",
+        "commit": "42ee304e66e9591630ae29afb1ed7e61847738ff",
+        "p_path": "src/main/java/net/openhft/chronicle/wire/WireMarshaller.java",
+        "t_path": "src/test/java/net/openhft/chronicle/wire/MarshallableTest.java",
+        "p_name": "setvalue",
+        "t_name": "testequals",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "apache___karaf",
+        "commit": "de7089d5149eb9d011f690e6177cc7ab087372bd",
+        "p_path": "shell/commands/src/main/java/org/apache/karaf/shell/commands/impl/GrepAction.java",
+        "t_path": "shell/commands/src/test/java/org/apache/karaf/shell/commands/impl/GrepTest.java",
+        "p_name": "execute",
+        "t_name": "testgrep",
+        "Reason": "Casual modifications to tests by developers "
+    },
+    {
+        "repo_name": "awslabs___aws-saas-boost",
+        "commit": "3c700cce1460b329ef805840f0ef293add62f453",
+        "p_path": "installer/src/main/java/com/amazon/aws/partners/saasfactory/saasboost/SaaSBoostArtifactsBucket.java",
+        "t_path": "installer/src/test/java/com/amazon/aws/partners/saasfactory/saasboost/SaaSBoostArtifactsBucketTest.java",
+        "p_name": "putfile",
+        "t_name": "putfiletest",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "thyrlian___AwesomeValidation",
+        "commit": "eb089aa49e7ea76547917cda845c642f75d92621",
+        "p_path": "library/src/main/java/com/basgeekball/awesomevalidation/validators/TextInputLayoutValidator.java",
+        "t_path": "library/src/test/java/com/basgeekball/awesomevalidation/validators/TextInputLayoutValidatorTest.java",
+        "p_name": "halt",
+        "t_name": "testhalt",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "ebean-orm___ebean",
+        "commit": "87ad874621347add24be244bfe61a48e01fc3bf3",
+        "p_path": "ebean-api/src/main/java/io/ebean/config/DatabaseConfig.java",
+        "t_path": "ebean-api/src/test/java/io/ebean/config/DatabaseConfigTest.java",
+        "p_name": "loadsettings",
+        "t_name": "testloadwithproperties",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "DataDog___dd-trace-java",
+        "commit": "2b9e0aee8595e54cc124ee38a3354e9f7bd3adca",
+        "p_path": "dd-java-agent/agent-profiling/profiling-controller/src/main/java/com/datadog/profiling/controller/ControllerFactory.java",
+        "t_path": "dd-java-agent/agent-profiling/profiling-controller-async/src/test/java/com/datadog/profiling/controller/ControllerFactoryTest.java",
+        "p_name": "createcontroller",
+        "t_name": "testcreatecontroller",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "tony19___logback-android",
+        "commit": "8db35d6b4fa3f72761113aa0d622bca56970f895",
+        "p_path": "logback-android/src/main/java/ch/qos/logback/core/util/FileSize.java",
+        "t_path": "logback-android/src/test/java/ch/qos/logback/core/util/FileSizeTest.java",
+        "p_name": "tostring",
+        "t_name": "testtostring",
+        "Reason": "Unclear"
+    },
+    {
+        "repo_name": "apache___dolphinscheduler",
+        "commit": "8a35e8b2f83099ec7536c30633663b43933d6c43",
+        "p_path": "dolphinscheduler-master/src/main/java/org/apache/dolphinscheduler/server/master/utils/SwitchTaskUtils.java",
+        "t_path": "dolphinscheduler-master/src/test/java/org/apache/dolphinscheduler/server/master/utils/SwitchTaskUtilsTest.java",
+        "p_name": "generatecontentwithtaskparams",
+        "t_name": "testgeneratecontentwithtaskparams",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "apache___inlong",
+        "commit": "34835f827771074345f42a9b1658d018f202516e",
+        "p_path": "inlong-manager/manager-pojo/src/main/java/org/apache/inlong/manager/pojo/sink/mysql/MySQLSinkDTO.java",
+        "t_path": "inlong-manager/manager-pojo/src/test/java/org/apache/inlong/manager/pojo/sink/mysql/MySQLSinkDTOTest.java",
+        "p_name": "filtersensitive",
+        "t_name": "testfiltersensitive",
+        "Reason": "Unclear"
+    },
+    {
+        "repo_name": "naver___ngrinder",
+        "commit": "da55303cce4eb01b2f9c010ad568a62e3a06ae6f",
+        "p_path": "ngrinder-controller/src/main/java/org/ngrinder/infra/spring/RemainedPathMethodArgumentResolver.java",
+        "t_path": "ngrinder-controller/src/test/java/org/ngrinder/infra/spring/RemainedPathResolverTest.java",
+        "p_name": "resolveargument",
+        "t_name": "testresolveargument",
+        "Reason": "Unclear"
+    },
+    {
+        "repo_name": "nextcloud___notes-android",
+        "commit": "4d7260464c330d6fde1f12595f8b79a0bb38e59f",
+        "p_path": "markdown/src/main/java/it/niedermann/android/markdown/MarkdownUtil.java",
+        "t_path": "markdown/src/test/java/it/niedermann/android/markdown/MarkdownUtilTest.java",
+        "p_name": "handleitalicedgecase",
+        "t_name": "testtogglepunctuation",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "spoutdev___Spout",
+        "commit": "bf23c9b5160283b4e80214991dfffc878cc812ac",
+        "p_path": "src/main/java/org/spout/api/util/config/MemoryConfiguration.java",
+        "t_path": "src/test/java/org/spout/api/util/config/MemoryConfigurationTest.java",
+        "p_name": "addnodes",
+        "t_name": "testnode",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "forge___roaster",
+        "commit": "3918a08b47e1105ace13a8760b475667064f46f8",
+        "p_path": "impl/src/main/java/org/jboss/forge/roaster/model/impl/FieldImpl.java",
+        "t_path": "impl/src/test/java/org/jboss/forge/test/roaster/model/FieldTypeTest.java",
+        "p_name": "setliteralinitializer",
+        "t_name": "testgenericfieldtype",
+        "Reason": "Incorrect results of structural dependency tools"
+    },
+    {
+        "repo_name": "tordanik___OSM2World",
+        "commit": "b140d3593e335e6761d7719b1f7b3c19658ed59c",
+        "p_path": "src/main/java/org/osm2world/core/target/common/mesh/ExtrusionGeometry.java",
+        "t_path": "src/test/java/org/osm2world/core/target/common/mesh/ExtrusionGeometryTest.java",
+        "p_name": "astriangles",
+        "t_name": "testextrudetriangleintopyramid",
+        "Reason": "Unclear"
+    },
+    {
+        "repo_name": "OpenHFT___Chronicle-Bytes",
+        "commit": "c8050c8f4dec2ef5efc4da3def6ab5819131a420",
+        "p_path": "src/main/java/net/openhft/chronicle/bytes/AbstractBytes.java",
+        "t_path": "src/test/java/net/openhft/chronicle/bytes/ReadLenientTest.java",
+        "p_name": "readskip",
+        "t_name": "dotest",
+        "Reason": "Incorrect results of structural dependency tools"
+    },
+    {
+        "repo_name": "apache___karaf",
+        "commit": "e39d9e1241f9d5d545a2e080de7bd1f5a13b8ce3",
+        "p_path": "features/core/src/main/java/org/apache/karaf/features/internal/service/Deployer.java",
+        "t_path": "features/core/src/test/java/org/apache/karaf/features/internal/service/DeployerTest.java",
+        "p_name": "deploy",
+        "t_name": "testupdatesimplefeature",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "apache___guacamole-client",
+        "commit": "4fec4638fc8652b684eea069e9ee9fe423615bfa",
+        "p_path": "guacamole-ext/src/main/java/org/apache/guacamole/token/TokenFilter.java",
+        "t_path": "guacamole-ext/src/test/java/org/apache/guacamole/token/TokenFilterTest.java",
+        "p_name": "filter",
+        "t_name": "testfilter",
+        "Reason": "Unclear"
+    },
+    {
+        "repo_name": "Netflix___conductor",
+        "commit": "f5cbfa24769802712807988222243f2a1ac6afb6",
+        "p_path": "core/src/main/java/com/netflix/conductor/core/execution/DeciderService.java",
+        "t_path": "core/src/test/java/com/netflix/conductor/core/execution/TestDeciderService.java",
+        "p_name": "checkworkflowtimeout",
+        "t_name": "testcheckworkflowtimeout",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "apache___gobblin",
+        "commit": "d389be9618f2a5b28aace8930544427093ce62e3",
+        "p_path": "gobblin-modules/gobblin-kafka-common/src/main/java/org/apache/gobblin/source/extractor/extract/kafka/workunit/packer/ProduceRateAndLagBasedWorkUnitSizeEstimator.java",
+        "t_path": "gobblin-modules/gobblin-kafka-common/src/test/java/org/apache/gobblin/source/extractor/extract/kafka/workunit/packer/ProduceRateAndLagBasedWorkUnitSizeEstimatorTest.java",
+        "p_name": "calcestimatedsize",
+        "t_name": "testcalcestimatedsize",
+        "Reason": "Unclear"
+    },
+    {
+        "repo_name": "apache___pdfbox",
+        "commit": "8179bd48c7bf23896bb35d388407b7f791af02fd",
+        "p_path": "io/src/main/java/org/apache/pdfbox/io/ScratchFileBuffer.java",
+        "t_path": "io/src/test/java/org/apache/pdfbox/io/ScratchFileBufferTest.java",
+        "p_name": "createview",
+        "t_name": "testview",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "ClickHouse___clickhouse-java",
+        "commit": "0981b55e2d472ff8c7a11203bbd7447e4b044b66",
+        "p_path": "src/main/java/ru/yandex/clickhouse/util/TypeUtils.java",
+        "t_path": "src/test/java/ru/yandex/clickhouse/util/TypeUtilsTest.java",
+        "p_name": "getcolumnsize",
+        "t_name": "testgetcolumnsize",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "openzipkin___brave",
+        "commit": "f76b2f6affeddb8600eaeb75612d3b1367f6a362",
+        "p_path": "brave-resteasy-spring/src/main/java/com/github/kristofa/brave/resteasy/BravePostProcessInterceptor.java",
+        "t_path": "brave-resteasy-spring/src/test/java/com/github/kristofa/brave/resteasy/BravePostProcessorInterceptorTest.java",
+        "p_name": "postprocess",
+        "t_name": "testpostprocess",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "DependencyTrack___dependency-track",
+        "commit": "7ece0d96ce0f1eb2b4608b9ecc22b6eff1942388",
+        "p_path": "src/main/java/org/dependencytrack/persistence/CweImporter.java",
+        "t_path": "src/test/java/org/dependencytrack/persistence/CweImporterTest.java",
+        "p_name": "processcwedefinitions",
+        "t_name": "testprocesscwedefinitions",
+        "Reason": "Modifications caused by external changes"
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "8c92426a1ae11cf9843007cff2e492c73dccc711",
+        "p_path": "core/src/main/java/org/owasp/dependencycheck/xml/pom/Model.java",
+        "t_path": "core/src/test/java/org/owasp/dependencycheck/xml/pom/ModelTest.java",
+        "p_name": "processproperties",
+        "t_name": "testprocessproperties",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "apache___struts",
+        "commit": "1716e17841cca9fc16976613a04866406b077ae9",
+        "p_path": "xwork-core/src/main/java/com/opensymphony/xwork2/util/fs/DefaultFileManagerFactory.java",
+        "t_path": "xwork-core/src/test/java/com/opensymphony/xwork2/util/fs/DefaultFileManagerFactoryTest.java",
+        "p_name": "getfilemanager",
+        "t_name": "testcreatedummyfilemanager",
+        "Reason": "Casual modifications to tests by developers "
+    },
+    {
+        "repo_name": "apache___struts",
+        "commit": "907a22c61051858e5122bdb1bdf50819f10896e7",
+        "p_path": "core/src/main/java/org/apache/struts2/portlet/context/ServletContextHolderListener.java",
+        "t_path": "core/src/test/java/org/apache/struts2/portlet/context/ServletContextHolderListenerTest.java",
+        "p_name": "contextdestroyed",
+        "t_name": "testcontextinitialized",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "apache___jmeter",
+        "commit": "8546e2372ac08eecc27f56a5bfc24a6c4ecc7135",
+        "p_path": "src/core/src/main/java/org/apache/jmeter/report/processor/ErrorsSummaryConsumer.java",
+        "t_path": "src/core/src/test/java/org/apache/jmeter/report/processor/ErrorsSummaryConsumerTest.java",
+        "p_name": "geterrorkey",
+        "t_name": "testgeterrorkey",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "f-droid___fdroidclient",
+        "commit": "506f254889c2c82ce569867aa1c7b23ed4263a95",
+        "p_path": "app/src/main/java/org/fdroid/fdroid/Utils.java",
+        "t_path": "app/src/test/java/org/fdroid/fdroid/UtilsTest.java",
+        "p_name": "formatlastupdated",
+        "t_name": "testformatlastupdated",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "diennea___herddb",
+        "commit": "27f5186744b4389ade82b190737914aace0b4294",
+        "p_path": "herddb-core/src/main/java/herddb/file/FileCommitLogManager.java",
+        "t_path": "herddb-core/src/test/java/herddb/file/FileCommitLogTest.java",
+        "p_name": "createcommitlog",
+        "t_name": "testlog",
+        "Reason": "Model's insensitivity to numerical values"
+    },
+    {
+        "repo_name": "deepjavalibrary___djl",
+        "commit": "64b29e95058120dc4439fad406dcb1231de4dfed",
+        "p_path": "examples/src/main/java/ai/djl/examples/inference/ImageClassification.java",
+        "t_path": "examples/src/test/java/ai/djl/examples/training/TrainMnistTest.java",
+        "p_name": "predict",
+        "t_name": "testtrainmnist",
+        "Reason": "Incorrect results of structural dependency tools"
+    },
+    {
+        "repo_name": "FasterXML___jackson-databind",
+        "commit": "1fae2f1943eeb35b46d7cd3081686e013dd86d07",
+        "p_path": "src/main/java/com/fasterxml/jackson/databind/ObjectMapper.java",
+        "t_path": "src/test/java/com/fasterxml/jackson/databind/module/SimpleModuleTest.java",
+        "p_name": "getregisteredmoduleids",
+        "t_name": "testgetregisteredmodules",
+        "Reason": "Casual modifications to tests by developers "
+    },
+    {
+        "repo_name": "apache___inlong",
+        "commit": "d49ba2c055f9faaca7f3ce79b04f6e5874dd8dcf",
+        "p_path": "inlong-manager/manager-service/src/main/java/org/apache/inlong/manager/service/core/plugin/PluginService.java",
+        "t_path": "inlong-manager/manager-service/src/test/java/org/apache/inlong/manager/service/core/plugin/PluginServiceTest.java",
+        "p_name": "pluginreload",
+        "t_name": "testreloadplugin",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "Adobe-Consulting-Services___acs-aem-commons",
+        "commit": "6cf339d59dcd93afe2ea83a02f8bcbdbf638f594",
+        "p_path": "bundle/src/main/java/com/adobe/acs/commons/mcp/impl/processes/asset/UrlAssetImport.java",
+        "t_path": "bundle/src/test/java/com/adobe/acs/commons/mcp/impl/processes/asset/UrlAssetImportTest.java",
+        "p_name": "extractfilesandfolders",
+        "t_name": "testimportfile",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "addthis___hydra",
+        "commit": "91c73f05b971651e2a00bc1a5aa0ce35ff1f6b57",
+        "p_path": "hydra-main/src/main/java/com/addthis/hydra/job/Spawn.java",
+        "t_path": "hydra-main/src/test/java/com/addthis/hydra/job/SpawnTest.java",
+        "p_name": "resolvejobtaskdirectorymatches",
+        "t_name": "fixdirstest",
+        "Reason": "Casual modifications to tests by developers "
+    },
+    {
+        "repo_name": "megaease___easeagent",
+        "commit": "903d3fc327676e27c7a7661271658b73c29974ee",
+        "p_path": "config/src/main/java/com/megaease/easeagent/config/ConfigConst.java",
+        "t_path": "config/src/test/java/com/megaease/easeagent/config/ConfigConstTest.java",
+        "p_name": "extractheadername",
+        "t_name": "testextractheadername",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "weld___core",
+        "commit": "494b7e19ccaa07e114f7a416fccf86af1164f83a",
+        "p_path": "environments/common/src/main/java/org/jboss/weld/environment/util/BeanArchives.java",
+        "t_path": "environments/common/src/test/java/org/jboss/weld/environment/util/BeanArchivesTest.java",
+        "p_name": "extractbeanarchiveid",
+        "t_name": "testextractbeanarchiveid",
+        "Reason": "Slight changes to production code"
+    },
+    {
+        "repo_name": "apache___maven-mvnd",
+        "commit": "8697cd6151dbba5c68862564a92fed8807ef0253",
+        "p_path": "common/src/main/java/org/mvndaemon/mvnd/common/Message.java",
+        "t_path": "daemon/src/test/java/org/mvndaemon/mvnd/daemon/ServerTest.java",
+        "p_name": "getclassorder",
+        "t_name": "testmessageordering",
+        "Reason": "Incorrect results of structural dependency tools"
+    },
+    {
+        "repo_name": "signalapp___Signal-Server",
+        "commit": "71c7e305480aa3cb8af8c99ae04a20e925e3af47",
+        "p_path": "service/src/main/java/org/whispersystems/textsecuregcm/controllers/StickerController.java",
+        "t_path": "service/src/test/java/org/whispersystems/textsecuregcm/tests/controllers/StickerControllerTest.java",
+        "p_name": "getstickersform",
+        "t_name": "testcreatepack",
+        "Reason": "Model's insensitivity to numerical values"
+    },
+    {
+        "repo_name": "firebase___firebase-android-sdk",
+        "commit": "f5845b2a5ef7c2f8a4d0455f1d787082b88ae3d2",
+        "p_path": "appcheck/firebase-appcheck/src/main/java/com/google/firebase/appcheck/FirebaseAppCheckRegistrar.java",
+        "t_path": "appcheck/firebase-appcheck/src/test/java/com/google/firebase/appcheck/FirebaseAppCheckRegistrarTest.java",
+        "p_name": "getcomponents",
+        "t_name": "testgetcomponents",
+        "Reason": "Model's insensitivity to numerical values"
+    },
+    {
+        "repo_name": "DependencyTrack___dependency-track",
+        "commit": "09ee0b0905921d691507742e6e81c986efb015c5",
+        "p_path": "src/main/java/org/dependencytrack/parser/snyk/SnykParser.java",
+        "t_path": "src/test/java/org/dependencytrack/tasks/scanners/SnykAnalysisTaskTest.java",
+        "p_name": "parse",
+        "t_name": "testanalyzewithratelimiting",
+        "Reason": "Incorrect results of structural dependency tools"
+    },
+    {
+        "repo_name": "apache___incubator-uniffle",
+        "commit": "e968c00800df0406e28b6e0ebc1d410ba3020f33",
+        "p_path": "server/src/main/java/org/apache/uniffle/server/buffer/ShuffleBufferManager.java",
+        "t_path": "server/src/test/java/org/apache/uniffle/server/buffer/ShuffleBufferManagerTest.java",
+        "p_name": "flushsinglebufferifnecessary",
+        "t_name": "flushsinglebuffertest",
+        "Reason": "Model's insensitivity to numerical values"
+    },
+    {
+        "repo_name": "linkedin___cruise-control",
+        "commit": "d713c6db710c67e04493f294b38bfc5500d71906",
+        "p_path": "cruise-control/src/main/java/com/linkedin/kafka/cruisecontrol/analyzer/goals/PreferredLeaderElectionGoal.java",
+        "t_path": "cruise-control/src/test/java/com/linkedin/kafka/cruisecontrol/analyzer/PreferredLeaderElectionGoalTest.java",
+        "p_name": "optimize",
+        "t_name": "testoptimizewithdemotedbrokers",
+        "Reason": "Unclear"
+    },
+    {
+        "repo_name": "indeedeng___proctor",
+        "commit": "64aea81826f1b6579002802d13d40645daca0966",
+        "p_path": "proctor-consumer/src/main/java/com/indeed/proctor/consumer/ProctorConsumerUtils.java",
+        "t_path": "proctor-consumer/src/test/java/com/indeed/proctor/spring/TestProctorConsumerUtils.java",
+        "p_name": "createforcedgroupscookie",
+        "t_name": "testcreateforcedgroupscookie",
+        "Reason": "Casual modifications to tests by developers "
+    }
+]
