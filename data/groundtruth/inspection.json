@@ -1,0 +1,3672 @@
+[
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "58dc2de1f80e3279c17405edf28c4deac231e7d9",
+        "p_path": "src/main/java/org/traccar/protocol/EgtsProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/EgtsProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecodewithauth",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___cayenne",
+        "commit": "230137d24b867f104d3ddb7c02a20ed023f8cb37",
+        "p_path": "framework/cayenne-jpa-unpublished/src/main/java/org/apache/cayenne/jpa/Provider.java",
+        "t_path": "framework/cayenne-jpa-unpublished/src/test/java/org/apache/cayenne/jpa/ProviderTest.java",
+        "p_name": "createcontainerentitymanagerfactory",
+        "t_name": "testcreatecontainerentitymanagerfactory",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "cdk___cdk",
+        "commit": "5924541add7070d4ebe72169c56ff7eed63db6d6",
+        "p_path": "src/main/org/openscience/cdk/atomtype/CDKAtomTypeMatcher.java",
+        "t_path": "src/test/org/openscience/cdk/atomtype/CDKAtomTypeMatcherTest.java",
+        "p_name": "perceivesulphurs",
+        "t_name": "tests3",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "npgall___concurrent-trees",
+        "commit": "64b90dfb52185279d646843e82ba2a1faa835dc2",
+        "p_path": "code/src/main/java/com/googlecode/concurrenttrees/radix/node/util/NodeUtil.java",
+        "t_path": "code/src/test/java/com/googlecode/concurrenttrees/radix/node/util/NodeUtilTest.java",
+        "p_name": "binarysearchforedge",
+        "t_name": "testbinarysearchforedge",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "d85491709025af72a363cdbb60a477c028a37b31",
+        "p_path": "dependency-check-core/src/main/java/org/owasp/dependencycheck/analyzer/DependencyBundlingAnalyzer.java",
+        "t_path": "dependency-check-core/src/test/java/org/owasp/dependencycheck/analyzer/DependencyBundlingAnalyzerTest.java",
+        "p_name": "analyze",
+        "t_name": "testanalyze",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "allure-framework___allure1",
+        "commit": "d855da3930bb8749955a3c30c6055ee599c744c5",
+        "p_path": "allure-java/allure-java-commons/src/main/java/ru/yandex/qatools/allure/storages/StepStorage.java",
+        "t_path": "allure-java/allure-java-commons/src/test/java/ru/yandex/qatools/allure/storages/StepStorageTest.java",
+        "p_name": "polllast",
+        "t_name": "polllasttest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___commons-text",
+        "commit": "c38e7c7d2941eaa3efaa58e4e948df04993dacf4",
+        "p_path": "src/main/java/org/apache/commons/text/CaseUtils.java",
+        "t_path": "src/test/java/org/apache/commons/text/CaseUtilsTest.java",
+        "p_name": "tocamelcase",
+        "t_name": "testtocamelcase",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___dubbo",
+        "commit": "768d9b38cc3219bb1231f4fd0c53137a19d00f73",
+        "p_path": "dubbo-registry/src/main/java/com/alibaba/dubbo/registry/support/RegistryDirectory.java",
+        "t_path": "dubbo-registry-default/src/test/java/com/alibaba/dubbo/registry/dubbo/RegistryDirectoryTest.java",
+        "p_name": "notify",
+        "t_name": "testparametersmerge",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "reactor___reactor-netty",
+        "commit": "dfb71cf9f20d46754c7166690d4ca7de4ef3ad8e",
+        "p_path": "src/main/java/reactor/netty/http/HttpOperations.java",
+        "t_path": "src/test/java/reactor/netty/http/HttpOperationsTest.java",
+        "p_name": "resolvepath",
+        "t_name": "testissue948",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "26b0dd5ef5555cff8ac9bdc81b07172fde8077d6",
+        "p_path": "dependency-check-core/src/main/java/org/owasp/dependencycheck/data/update/EngineVersionCheck.java",
+        "t_path": "dependency-check-core/src/test/java/org/owasp/dependencycheck/data/update/EngineVersionCheckTest.java",
+        "p_name": "getcurrentreleaseversion",
+        "t_name": "testgetcurrentreleaseversion",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "Graylog2___graylog2-server",
+        "commit": "2d59457315b5270d279d10af863e61b0ff0ccfd9",
+        "p_path": "data-node/src/main/java/org/graylog/datanode/management/Environment.java",
+        "t_path": "data-node/src/test/java/org/graylog/datanode/management/EnvironmentTest.java",
+        "p_name": "getenv",
+        "t_name": "testfiltering",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "HTTP-RPC___Kilo",
+        "commit": "a0e6e19841552541015ffc7e6f2fbe07d6f19423",
+        "p_path": "httprpc-server/src/main/java/org/httprpc/io/TemplateEncoder.java",
+        "t_path": "httprpc-server/src/test/java/org/httprpc/io/TemplateEncoderTest.java",
+        "p_name": "format",
+        "t_name": "testdateformatmodifiers",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "Adobe-Consulting-Services___acs-aem-commons",
+        "commit": "8a33cb5d14f200ec9cac97a0a17080bfe644f4ce",
+        "p_path": "bundle/src/main/java/com/adobe/acs/commons/replication/dispatcher/impl/DispatcherFlushRulesImpl.java",
+        "t_path": "bundle/src/test/java/com/adobe/acs/commons/replication/dispatcher/impl/DispatcherFlushRulesImplTest.java",
+        "p_name": "configureflushrules",
+        "t_name": "testconfigureflushrules",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___servicecomb-java-chassis",
+        "commit": "3531b5ca16b7f035bf466b9ef806741d6a3556f7",
+        "p_path": "providers/provider-pojo/src/main/java/io/servicecomb/provider/pojo/reference/PojoReferenceMeta.java",
+        "t_path": "providers/provider-pojo/src/test/java/io/servicecomb/provider/pojo/reference/PojoReferenceMetaTest.java",
+        "p_name": "afterpropertiesset",
+        "t_name": "testnoconsumerinterface",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "imagej___imagej2",
+        "commit": "3e51f95f6e53fd372026db62334aa463e381a7b2",
+        "p_path": "imagej/src/main/java/imagej/process/ImageUtils.java",
+        "t_path": "imagej/src/test/java/imagej/process/ImageUtilsTest.java",
+        "p_name": "createimageplus",
+        "t_name": "testcreateimageplus",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "naver___ngrinder",
+        "commit": "a514d92a7aedfc78a7fed688af25190a9d7c3066",
+        "p_path": "ngrinder-controller/src/main/java/org/ngrinder/user/controller/UserController.java",
+        "t_path": "ngrinder-controller/src/test/java/org/ngrinder/user/controller/UserControllerTest.java",
+        "p_name": "saveorupdateuserdetail",
+        "t_name": "testsaveorupdateuserdetail",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "weliem___blessed-android",
+        "commit": "5e44e11e8779117902917ae81d88d06ee9b52bd7",
+        "p_path": "blessed/src/main/java/com/welie/blessed/BluetoothPeripheral.java",
+        "t_path": "blessed/src/test/java/com/welie/blessed/BluetoothPeripheralTest.java",
+        "p_name": "readremoterssi",
+        "t_name": "readremoterssitest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "zendesk___maxwell",
+        "commit": "451a3fdfd247aa30527441a17800e739232064f0",
+        "p_path": "src/main/java/com/zendesk/maxwell/schema/ddl/SchemaChange.java",
+        "t_path": "src/test/java/com/zendesk/maxwell/schema/ddl/DDLParserTest.java",
+        "p_name": "matchesblacklist",
+        "t_name": "testsqlblacklist",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___shenyu",
+        "commit": "25d8eb379ab5d00e73cd7780fec9cb9a25f0a7fe",
+        "p_path": "shenyu-admin/src/main/java/org/apache/shenyu/admin/config/DataBaseConfiguration.java",
+        "t_path": "shenyu-admin/src/test/java/org/apache/shenyu/admin/config/DataBaseConfigurationTest.java",
+        "p_name": "databaseproperties",
+        "t_name": "testdatabaseproperties",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "wwadge___bonecp",
+        "commit": "3a6e39d3d522f9f5e2f63e42ddace6dcc997e81d",
+        "p_path": "bonecp/src/main/java/com/jolbox/bonecp/ConnectionHandle.java",
+        "t_path": "bonecp/src/test/java/com/jolbox/bonecp/TestConnectionHandle.java",
+        "p_name": "obtaininternalconnection",
+        "t_name": "testobtaininternalconnection",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "MobiVM___robovm",
+        "commit": "2f997809290be9b42987efa6f957b8d664a05c66",
+        "p_path": "compiler/libimobiledevice/src/main/java/org/robovm/libimobiledevice/util/AppLauncher.java",
+        "t_path": "compiler/libimobiledevice/src/test/java/org/robovm/libimobiledevice/util/AppLauncherTest.java",
+        "p_name": "finddeveloperimage",
+        "t_name": "testfinddeveloperimage",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___pdfbox",
+        "commit": "c71ea9edd1e8ebc6d195c0209048844ca67947ff",
+        "p_path": "pdfbox/src/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDAcroForm.java",
+        "t_path": "pdfbox/src/test/java/org/apache/pdfbox/pdmodel/interactive/form/PDAcroFormTest.java",
+        "p_name": "flatten",
+        "t_name": "testflatten",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "imglib___imglib2",
+        "commit": "d13c137e31f9a156500a707316f75fa3d4694d7a",
+        "p_path": "imglib2/core/src/main/java/net/imglib2/AbstractRealRandomAccess.java",
+        "t_path": "imglib2/core/src/test/java/net/imglib2/TestAbstractRealRandomAccess.java",
+        "p_name": "fwd",
+        "t_name": "testfwd",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "65f54c200cf0dcadaa9a1ce685e3eaeb88ce7506",
+        "p_path": "src/main/java/org/traccar/protocol/TeltonikaProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/TeltonikaProtocolDecoderTest.java",
+        "p_name": "decodelocation",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "tls-attacker___TLS-Attacker",
+        "commit": "38f0c72380d821260986f3ee599e462c126a678b",
+        "p_path": "TLS-Core/src/main/java/de/rub/nds/tlsattacker/core/protocol/serializer/extension/CachedObjectSerializer.java",
+        "t_path": "TLS-Core/src/test/java/de/rub/nds/tlsattacker/core/protocol/serializer/extension/CachedObjectSerializerTest.java",
+        "p_name": "serializebytes",
+        "t_name": "testserializebytes",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___commons-lang",
+        "commit": "60412131f3679b720bcaaaf3dea4be666cefea7a",
+        "p_path": "src/main/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+        "t_path": "src/test/java/org/apache/commons/lang3/exception/ExceptionUtilsTest.java",
+        "p_name": "getrootcause",
+        "t_name": "testgetrootcause_throwable",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "TeamNewPipe___NewPipeExtractor",
+        "commit": "c9635218e2f96198737b63874014e3e5e2e363a0",
+        "p_path": "extractor/src/main/java/org/schabi/newpipe/extractor/services/youtube/YoutubeParsingHelper.java",
+        "t_path": "extractor/src/test/java/org/schabi/newpipe/extractor/services/youtube/YoutubeParsingHelperTest.java",
+        "p_name": "parsedurationstring",
+        "t_name": "testparsedurationstring",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___pdfbox",
+        "commit": "10eb330eedfd6995ffa27aaa9ff7944521310f5c",
+        "p_path": "pdfbox/src/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDAcroForm.java",
+        "t_path": "pdfbox/src/test/java/org/apache/pdfbox/pdmodel/interactive/form/PDAcroFormTest.java",
+        "p_name": "flatten",
+        "t_name": "testflatten",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "javaee___jersey",
+        "commit": "a66c9e94f9877440afa685d0fefdffe677668d16",
+        "p_path": "incubator/declarative-linking/src/main/java/org/glassfish/jersey/linking/FieldProcessor.java",
+        "t_path": "incubator/declarative-linking/src/test/java/org/glassfish/jersey/linking/FieldProcessorTest.java",
+        "p_name": "processlinks",
+        "t_name": "testprocesslinks",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "lets-blade___blade",
+        "commit": "c0d2edd295dc2f6e3131dd4fc3bb54d58b5dc944",
+        "p_path": "src/main/java/com/blade/kit/BeanKit.java",
+        "t_path": "src/test/java/com/blade/kit/BeanKitTest.java",
+        "p_name": "copy",
+        "t_name": "testcopy",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "Graylog2___graylog2-server",
+        "commit": "12014b07269962dc05914581742b937226b1cdf2",
+        "p_path": "graylog2-server/src/main/java/org/graylog2/outputs/GelfOutput.java",
+        "t_path": "graylog2-server/src/test/java/org/graylog2/outputs/GelfOutputTest.java",
+        "p_name": "getrequestedconfiguration",
+        "t_name": "testgetrequestedconfiguration",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "codelibs___fess",
+        "commit": "b4f01b5f81423d415a9072069e2910d615358ac2",
+        "p_path": "src/main/java/org/codelibs/fess/helper/ViewHelper.java",
+        "t_path": "src/test/java/org/codelibs/fess/helper/ViewHelperTest.java",
+        "p_name": "getcontenttitle",
+        "t_name": "test_getcontenttitle",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "pgjdbc___pgjdbc",
+        "commit": "17c4bcfb59e846c593093752f2e30dd97bb4b338",
+        "p_path": "pgjdbc/src/main/java/org/postgresql/jdbc/PgDatabaseMetaData.java",
+        "t_path": "pgjdbc/src/test/java/org/postgresql/test/jdbc2/DatabaseMetaDataTest.java",
+        "p_name": "getcolumns",
+        "t_name": "testcolumns",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "YahooArchive___oozie",
+        "commit": "ab282e3ee206ba628afeb420df6d64435c4a6954",
+        "p_path": "core/src/main/java/org/apache/oozie/service/SchemaService.java",
+        "t_path": "core/src/test/java/org/apache/oozie/service/TestSchemaService.java",
+        "p_name": "loadschema",
+        "t_name": "testextschema",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___commons-dbutils",
+        "commit": "806381d224c0431c848fa0561d99d60616e00e04",
+        "p_path": "src/main/java/org/apache/commons/dbutils/handlers/ScalarHandler.java",
+        "t_path": "src/test/java/org/apache/commons/dbutils/handlers/ScalarHandlerTest.java",
+        "p_name": "handle",
+        "t_name": "testhandle",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "j256___ormlite-core",
+        "commit": "7dcf618ac930f8c7930076948ee62abb380f2807",
+        "p_path": "src/main/java/com/j256/ormlite/table/TableUtils.java",
+        "t_path": "src/test/java/com/j256/ormlite/table/TableUtilsTest.java",
+        "p_name": "cleartable",
+        "t_name": "testcleartable",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "hneemann___Digital",
+        "commit": "0f40a17d1359aa339f0edcd40c01964a9c91cad4",
+        "p_path": "src/main/java/de/neemann/digital/core/flipflops/FlipflopRS.java",
+        "t_path": "src/test/java/de/neemann/digital/core/flipflops/FlipflopRSTest.java",
+        "p_name": "readinputs",
+        "t_name": "testflipflop",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___incubator-uniffle",
+        "commit": "cc5a038b457ba04dba77e538a523bd9677641c4d",
+        "p_path": "common/src/main/java/org/apache/uniffle/common/util/RetryUtils.java",
+        "t_path": "common/src/test/java/org/apache/uniffle/common/util/RetryUtilsTest.java",
+        "p_name": "retrywithcondition",
+        "t_name": "testretrywithcondition",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "spring-attic___spring-security-oauth",
+        "commit": "8f31d8f422a7af3be8e6e24951d5851e51a010d5",
+        "p_path": "spring-security-oauth2/src/main/java/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.java",
+        "t_path": "spring-security-oauth2/src/test/java/org/springframework/security/oauth2/provider/endpoint/TestAuthorizationEndpoint.java",
+        "p_name": "approveordeny",
+        "t_name": "testapproveordeny",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "lumifyio___lumify",
+        "commit": "ea4666bcfab3ed9d6e1347365bf282876bf110c3",
+        "p_path": "lumify-sql/src/main/java/com/altamiracorp/lumify/sql/model/user/SqlUserRepository.java",
+        "t_path": "lumify-sql/src/test/java/com/altamiracorp/lumify/sql/model/SqlUserRepositoryTest.java",
+        "p_name": "adduser",
+        "t_name": "testadduser",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___calcite",
+        "commit": "d633402c41158da3fc00eebcf0e75b0c7da71450",
+        "p_path": "core/src/main/java/org/apache/calcite/rex/RexSimplify.java",
+        "t_path": "core/src/test/java/org/apache/calcite/test/RexProgramTest.java",
+        "p_name": "simplifyand2forunknownasfalse",
+        "t_name": "testsimplifyfilter",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "MuntashirAkon___AppManager",
+        "commit": "e3bee68e267e51da150496dc2be330df5809946c",
+        "p_path": "app/src/main/java/io/github/muntashirakon/AppManager/utils/TarUtils.java",
+        "t_path": "app/src/test/java/io/github/muntashirakon/AppManager/utils/TarUtilsTest.java",
+        "p_name": "extract",
+        "t_name": "extracttest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "dropwizard___dropwizard",
+        "commit": "f80cd0840159840d35b445ea247e3fbf356eae88",
+        "p_path": "dropwizard-jetty/src/main/java/io/dropwizard/jetty/HttpConnectorFactory.java",
+        "t_path": "dropwizard-jetty/src/test/java/io/dropwizard/jetty/HttpConnectorFactoryTest.java",
+        "p_name": "buildconnector",
+        "t_name": "testbuildconnector",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "PowerJob___PowerJob",
+        "commit": "d4a7aa68b1f9d4b0d4aa52f301257c87d0bf54fc",
+        "p_path": "powerjob-worker-spring-boot-starter/src/main/java/com/github/kfcfans/powerjob/worker/autoconfigure/PowerJobAutoConfiguration.java",
+        "t_path": "powerjob-worker-spring-boot-starter/src/test/java/com/github/kfcfans/powerjob/worker/autoconfigure/PowerJobAutoConfigurationTest.java",
+        "p_name": "initpowerjob",
+        "t_name": "testautoconfiguration",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___hudi",
+        "commit": "ab730479587c3fc7588e267ae07f83bb0631ef32",
+        "p_path": "hudi-utilities/src/main/java/org/apache/hudi/utilities/deltastreamer/SchedulerConfGenerator.java",
+        "t_path": "hudi-utilities/src/test/java/org/apache/hudi/utilities/deltastreamer/TestSchedulerConfGenerator.java",
+        "p_name": "getsparkschedulingconfigs",
+        "t_name": "testgeneratesparkschedulingconf",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "scalar-labs___btm",
+        "commit": "8ef50cfec1d935ad505b7f4b7949d4ea357d579f",
+        "p_path": "btm/src/main/java/bitronix/tm/journal/DiskJournal.java",
+        "t_path": "btm/src/test/java/bitronix/tm/journal/DiskJournalTest.java",
+        "p_name": "collectdanglingrecords",
+        "t_name": "testcomplexcollectdanglingrecords",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___karaf",
+        "commit": "1d0e67660d22d21c7f32306196e9745234c494c1",
+        "p_path": "features/extension/src/main/java/org/apache/karaf/features/extension/BundleWires.java",
+        "t_path": "features/extension/src/test/java/org/apache/karaf/features/extension/BundleWiresTest.java",
+        "p_name": "filtermatches",
+        "t_name": "testfiltermatches",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "addthis___hydra",
+        "commit": "0b839a76b1f24d35020417595ec7f7c654b417b5",
+        "p_path": "hydra-task/src/main/java/com/addthis/hydra/task/output/DefaultOutputWrapperFactory.java",
+        "t_path": "hydra-task/src/test/java/com/addthis/hydra/task/output/DefaultOutputWrapperFactoryTest.java",
+        "p_name": "getfilename",
+        "t_name": "testgetfilename",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "fe771851995da97ffa2fb50e21bd437bca208eac",
+        "p_path": "src/main/java/org/traccar/protocol/RstProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/RstProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "HTTP-RPC___Kilo",
+        "commit": "c272abc3515fa43bd69b4618bdf432dcb2ea7383",
+        "p_path": "kilo-client/src/main/java/org/httprpc/kilo/beans/BeanAdapter.java",
+        "t_path": "kilo-client/src/test/java/org/httprpc/kilo/beans/BeanAdapterTest.java",
+        "p_name": "getproperties",
+        "t_name": "testgetproperties",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "datageartech___datagear",
+        "commit": "3722de014d862e8db889e747e84e47a213ddc86b",
+        "p_path": "datagear-management/src/main/java/org/datagear/management/dbversion/DbVersionManager.java",
+        "t_path": "datagear-management/src/test/java/org/datagear/management/dbversion/DbVersionManagerTest.java",
+        "p_name": "resolveupgradesqlversioncontents",
+        "t_name": "resolveupgradesqlversioncontentstest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "tls-attacker___TLS-Attacker",
+        "commit": "4df5b93ad7ee56c92b82f307334d2018cc05a49b",
+        "p_path": "TLS-Core/src/main/java/de/rub/nds/tlsattacker/tls/config/delegate/MaxFragmentLengthDelegate.java",
+        "t_path": "TLS-Core/src/test/java/de/rub/nds/tlsattacker/tls/config/delegate/MaxFragmentLengthDelegateTest.java",
+        "p_name": "applydelegate",
+        "t_name": "testapplydelegate",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "Hive2Hive___Hive2Hive",
+        "commit": "a753bcf951dab0eeaffc150093fd782d238e3a54",
+        "p_path": "org.hive2hive.core/src/main/java/org/hive2hive/core/processes/files/list/FileNode.java",
+        "t_path": "org.hive2hive.core/src/test/java/org/hive2hive/core/processes/files/list/GetFileListProcessTest.java",
+        "p_name": "getchildren",
+        "t_name": "getfilelisttest",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "torakiki___sejda",
+        "commit": "c6b0eae3c079901472f96e049aabd60d010519f8",
+        "p_path": "sejda-sambox/src/main/java/org/sejda/impl/sambox/EditTask.java",
+        "t_path": "sejda-core/src/test/java/org/sejda/core/service/EditTaskTest.java",
+        "p_name": "execute",
+        "t_name": "testaddingblankpagewithimageandtextandremovingpage",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "eclipse-hono___hono",
+        "commit": "f86567b6128467b5846a3c4db62820d5925e6072",
+        "p_path": "adapters/mqtt-vertx-base/src/main/java/org/eclipse/hono/adapter/mqtt/AbstractVertxBasedMqttProtocolAdapter.java",
+        "t_path": "adapters/mqtt-vertx-base/src/test/java/org/eclipse/hono/adapter/mqtt/AbstractVertxBasedMqttProtocolAdapterTest.java",
+        "p_name": "onsubscribe",
+        "t_name": "testonsubscribeincludesstatuscodeforeachfilter",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___dolphinscheduler",
+        "commit": "6723454df9c7d85d3f034d2c13a080db4c130fc1",
+        "p_path": "dolphinscheduler-api/src/main/java/org/apache/dolphinscheduler/api/service/UsersService.java",
+        "t_path": "dolphinscheduler-api/src/test/java/org/apache/dolphinscheduler/api/service/UsersServiceTest.java",
+        "p_name": "updateuser",
+        "t_name": "testupdateuser",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "LinkedInAttic___camus",
+        "commit": "6140b80b010471bf95090b152239d1cfc1e927bb",
+        "p_path": "camus-etl-kafka/src/main/java/com/linkedin/camus/etl/kafka/common/EmailClient.java",
+        "t_path": "camus-etl-kafka/src/test/java/com/linkedin/camus/etl/kafka/common/EmailClientTest.java",
+        "p_name": "setup",
+        "t_name": "test",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "code4craft___webmagic",
+        "commit": "32f1f2cf44e76a3b1dea048dd37f5cedcfeae80b",
+        "p_path": "webmagic-core/src/main/java/us/codecraft/webmagic/downloader/HttpClientDownloader.java",
+        "t_path": "webmagic-core/src/test/java/us/codecraft/webmagic/downloader/HttpClientDownloaderTest.java",
+        "p_name": "gethtmlcharset",
+        "t_name": "testgethtmlcharset",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "81d2bdab9d91b2faa4824fbced4db2bc0edc821d",
+        "p_path": "src/main/java/org/traccar/protocol/Minifinder2ProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/Minifinder2ProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "naver___ngrinder",
+        "commit": "ebfc491c81e074ca82aa9550f30267d59784e534",
+        "p_path": "ngrinder-controller/src/main/java/org/ngrinder/script/controller/FileEntryApiController.java",
+        "t_path": "ngrinder-controller/src/test/java/org/ngrinder/script/controller/FileEntryApiControllerTest.java",
+        "p_name": "download",
+        "t_name": "testdownload",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___tomee",
+        "commit": "9076cff38c714416783d14acd1e9c94b3c5d9f8b",
+        "p_path": "container/openejb-core/src/main/java/org/apache/openejb/util/Pool.java",
+        "t_path": "container/openejb-core/src/test/java/org/apache/openejb/util/PoolTest.java",
+        "p_name": "close",
+        "t_name": "testclose",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "feixiao___DesignPattern",
+        "commit": "cd4d4203763d50fd97aa2f81ed2ec08a6f2ad273",
+        "p_path": "message-channel/src/main/java/com/iluwatar/message/channel/App.java",
+        "t_path": "message-channel/src/test/java/com/iluwatar/message/channel/AppTest.java",
+        "p_name": "main",
+        "t_name": "test",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "uber-archive___phabricator-jenkins-plugin",
+        "commit": "e4d7c90f68b0bf2be39b3c8ea65de29e6a58f489",
+        "p_path": "src/main/java/com/uber/jenkins/phabricator/CommentBuilder.java",
+        "t_path": "src/test/java/com/uber/jenkins/phabricator/CommentBuilderTest.java",
+        "p_name": "addbuildlink",
+        "t_name": "testaddbuildlink",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "MovingBlocks___Terasology",
+        "commit": "4a51f4490fc225c8547544fa0f71b5c88d9e99f7",
+        "p_path": "engine/src/main/java/org/terasology/persistence/serializers/GsonSerializer.java",
+        "t_path": "engine-tests/src/test/java/org/terasology/persistence/serializers/TypeSerializerTest.java",
+        "p_name": "tojson",
+        "t_name": "testjsonserialize",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "dustin___java-memcached-client",
+        "commit": "a77c9fd23bbd529d7b2bc8dd05df9a84602cf7da",
+        "p_path": "src/main/java/net/spy/memcached/vbucket/ConfigurationProviderHTTP.java",
+        "t_path": "src/test/java/net/spy/memcached/vbucket/ConfigurationProviderHTTPTest.java",
+        "p_name": "buildauthheader",
+        "t_name": "testbuildauthheader",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "karatelabs___karate",
+        "commit": "e46b7d0e049aca119fb271a197c5cef288981238",
+        "p_path": "karate-core/src/main/java/com/intuit/karate/Runner.java",
+        "t_path": "karate-core/src/test/java/com/intuit/karate/RunnerTest.java",
+        "p_name": "parallel",
+        "t_name": "testparallel",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "6f59f756a7d3e86924e762919dbbe13940a6511f",
+        "p_path": "src/main/java/org/traccar/protocol/T800xProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/T800xProtocolDecoderTest.java",
+        "p_name": "decodeposition",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "iluwatar___30-seconds-of-java",
+        "commit": "28cf7298a0576098c1b4dbd83911953ba131f30d",
+        "p_path": "src/main/java/date/AddDaysToDateSnippet.java",
+        "t_path": "src/test/java/date/AddDaysToDateSnippetTest.java",
+        "p_name": "adddaystodate",
+        "t_name": "testadddaystodate",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "oblac___jodd",
+        "commit": "fa63d8f8cd6ac514ee78549b3444722637ead9b8",
+        "p_path": "jodd-core/src/main/java/jodd/util/ArraysUtil.java",
+        "t_path": "jodd-core/src/test/java/jodd/util/ArraysUtilTest.java",
+        "p_name": "tostring",
+        "t_name": "testtostring",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "imglib___imglib2",
+        "commit": "48e67b66a883c02e5dcd29c8b2bf0e7c5e39a790",
+        "p_path": "imglib2/core/src/main/java/net/imglib2/roi/BinaryMaskRegionOfInterest.java",
+        "t_path": "imglib2/core/src/test/java/net/imglib2/roi/BinaryMaskRegionOfInterestTest.java",
+        "p_name": "ismember",
+        "t_name": "testismember",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "lumifyio___lumify",
+        "commit": "d43681957b33a3716247359ae84fee58504dedd9",
+        "p_path": "web/web-base/src/main/java/io/lumify/web/CurrentUser.java",
+        "t_path": "web/web-base/src/test/java/io/lumify/web/X509AuthenticationHandlerTest.java",
+        "p_name": "set",
+        "t_name": "testvalidcertificate",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "sismics___reader",
+        "commit": "95ca324dcad931d570a8f4290fe5b6394bb121bc",
+        "p_path": "reader-web/src/main/java/com/sismics/reader/rest/resource/UserResource.java",
+        "t_path": "reader-web/src/test/java/com/sismics/reader/rest/TestUserResource.java",
+        "p_name": "delete",
+        "t_name": "testuserresourceadmin",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "f-droid___fdroidclient",
+        "commit": "bc0db92c5067663449e493f630f1b3b2cc82c7d9",
+        "p_path": "app/src/main/java/org/fdroid/fdroid/data/AppProvider.java",
+        "t_path": "app/src/test/java/org/fdroid/fdroid/data/AppProviderTest.java",
+        "p_name": "insert",
+        "t_name": "testinsert",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___commons-io",
+        "commit": "17f8b44d50372f4b540059232ed0ffa189eceb62",
+        "p_path": "src/main/java/org/apache/commons/io/input/XmlStreamReader.java",
+        "t_path": "src/test/java/org/apache/commons/io/input/XmlStreamReaderTest.java",
+        "p_name": "getxmlprolog",
+        "t_name": "testrawnobomvalid",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "iluwatar___30-seconds-of-java",
+        "commit": "5123af2d27053cd36cfbf6a217e59f24c0d29703",
+        "p_path": "src/main/java/algorithm/CycleSortSnippet.java",
+        "t_path": "src/test/java/algorithm/CycleSortSnippetTest.java",
+        "p_name": "cyclesort",
+        "t_name": "testcyclesort",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___commons-codec",
+        "commit": "0385c8b72d0eb5c840c2cabf8154dbd0e4917e23",
+        "p_path": "src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java",
+        "t_path": "src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineTest.java",
+        "p_name": "encode",
+        "t_name": "testencode",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "b2e889abf0850aa568353f923a3b3f35008a063e",
+        "p_path": "src/main/java/org/traccar/protocol/HuabaoProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/HuabaoProtocolDecoderTest.java",
+        "p_name": "decodetransparent",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "BentoBoxWorld___BentoBox",
+        "commit": "737ad16ff6606b789dc3d04ff37cbf5093790046",
+        "p_path": "src/main/java/world/bentobox/bentobox/managers/IslandsManager.java",
+        "t_path": "src/test/java/world/bentobox/bentobox/managers/IslandsManagerTest.java",
+        "p_name": "getsafehomelocation",
+        "t_name": "testgetsafehomelocation",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "cinchapi___concourse",
+        "commit": "6a1b112694ef728fe9c7ba84a259efad3b6d6256",
+        "p_path": "concourse-shell/src/main/java/org/cinchapi/concourse/shell/ConcourseShell.java",
+        "t_path": "concourse-integration-tests/src/test/java/org/cinchapi/concourse/shell/ConcourseShellTest.java",
+        "p_name": "loadexternalscript",
+        "t_name": "testcallexternalscriptmethodswithoutprependingext",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "twilio___twilio-java",
+        "commit": "b3aa84739c5aaf3a89c15f3790eddf286bf3bab3",
+        "p_path": "src/main/java/com/twilio/sdk/verbs/Sip.java",
+        "t_path": "src/test/java/com/twilio/sdk/verbs/SipTest.java",
+        "p_name": "setstatuscallbackevents",
+        "t_name": "testsipstatuscallback",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "graphhopper___graphhopper",
+        "commit": "c368573e2eec07463f9e1235895e8bda9570162d",
+        "p_path": "core/src/main/java/com/graphhopper/GraphHopper.java",
+        "t_path": "core/src/test/java/com/graphhopper/reader/osm/GraphHopperOSMTest.java",
+        "p_name": "load",
+        "t_name": "testprofilesmustnotbechanged",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "BentoBoxWorld___BentoBox",
+        "commit": "0da0d6c6f75f38718ae02d442f45a1268f8c3ea3",
+        "p_path": "src/main/java/world/bentobox/bentobox/schems/Clipboard.java",
+        "t_path": "src/test/java/world/bentobox/bentobox/schems/ClipboardTest.java",
+        "p_name": "pasteclipboard",
+        "t_name": "testpasteclipboard",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___inlong",
+        "commit": "c0126e9059d0adff0d3f61fb2bc684e3b0bc0e3f",
+        "p_path": "inlong-manager/manager-service/src/main/java/org/apache/inlong/manager/service/core/heartbeat/HeartbeatManager.java",
+        "t_path": "inlong-manager/manager-service/src/test/java/org/apache/inlong/manager/service/core/heartbeat/HeartbeatManagerTest.java",
+        "p_name": "reportheartbeat",
+        "t_name": "testreportheartbeat",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___karaf",
+        "commit": "e39d9e1241f9d5d545a2e080de7bd1f5a13b8ce3",
+        "p_path": "features/core/src/main/java/org/apache/karaf/features/internal/service/Deployer.java",
+        "t_path": "features/core/src/test/java/org/apache/karaf/features/internal/service/DeployerTest.java",
+        "p_name": "deploy",
+        "t_name": "testupdatesimplefeature",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "ethereum___ethereumj",
+        "commit": "4d71a10be7766e7ceb4b7de36e8cf731bbc0ba52",
+        "p_path": "ethereumj-core/src/main/java/org/ethereum/core/TransactionExecutor.java",
+        "t_path": "ethereumj-core/src/test/java/test/ethereum/jsontestsuite/GitHubStateTest.java",
+        "p_name": "execute",
+        "t_name": "sttransactiontest",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "syndesisio___syndesis",
+        "commit": "e285bdbb967ce5958a82b5763bd27c8eab64f1af",
+        "p_path": "app/connectors/connector-utils/src/main/java/io/syndesis/connector/utils/KeyStoreHelper.java",
+        "t_path": "app/connectors/connector-utils/src/test/java/io/syndesis/connector/utils/KeyStoreHelperTest.java",
+        "p_name": "store",
+        "t_name": "teststore",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "numenta___htm.java",
+        "commit": "d95cac019d30a486f3658f03d443f1fed8ffe336",
+        "p_path": "src/main/java/org/numenta/nupic/network/Layer.java",
+        "t_path": "src/test/java/org/numenta/nupic/network/LayerTest.java",
+        "p_name": "reset",
+        "t_name": "testreset",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "codenvy___codenvy",
+        "commit": "4a24df33fa0c027af9e100a7101fd7644db2d40b",
+        "p_path": "installation-manager-cli-bundle/src/main/java/com/codenvy/im/cli/command/InstallCommand.java",
+        "t_path": "installation-manager-cli-bundle/src/test/java/com/codenvy/im/cli/command/TestInstallCommand.java",
+        "p_name": "enterinstalloptions",
+        "t_name": "testenterinstalloptions",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "codenvy___codenvy",
+        "commit": "4364cd7d4124a7d8acb278e8bb68627bedc3cc9b",
+        "p_path": "installation-manager-core/src/main/java/com/codenvy/im/managers/ConfigManager.java",
+        "t_path": "installation-manager-core/src/test/java/com/codenvy/im/managers/TestConfigManager.java",
+        "p_name": "merge",
+        "t_name": "testmerge",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "Graylog2___graylog2-server",
+        "commit": "75b82fed4cc4420486db3600694ed59c287abd07",
+        "p_path": "graylog2-server/src/main/java/org/graylog2/security/hashing/BCryptPasswordAlgorithm.java",
+        "t_path": "graylog2-server/src/test/java/org/graylog2/security/hashing/BCryptPasswordAlgorithmTest.java",
+        "p_name": "matches",
+        "t_name": "testmatches",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "google___physical-web",
+        "commit": "8259eb08cbc30fe8a4c7bdbc8154505db9e384b2",
+        "p_path": "java/libs/src/main/java/org/physical_web/collection/EddystoneBeacon.java",
+        "t_path": "java/libs/src/test/java/org/physical_web/collection/EddystoneBeaconTest.java",
+        "p_name": "getfatbeacontitle",
+        "t_name": "getfatbeacontitletest",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "searls___jasmine-maven-plugin",
+        "commit": "32936865b87f4bbd5d2e55eb1855d43abd11652c",
+        "p_path": "src/main/java/com/github/searls/jasmine/server/ResourceHandlerConfigurator.java",
+        "t_path": "src/test/java/com/github/searls/jasmine/server/ResourceHandlerConfiguratorTest.java",
+        "p_name": "createhandler",
+        "t_name": "testcreatehandler",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___commons-io",
+        "commit": "2c35eaaa64d850a386d11662058810bea9ce6f98",
+        "p_path": "src/main/java/org/apache/commons/io/FileUtils.java",
+        "t_path": "src/test/java/org/apache/commons/io/FileUtilsTest.java",
+        "p_name": "iteratefiles",
+        "t_name": "testiteratefiles",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "mapsforge___mapsforge",
+        "commit": "f46a657415f97b7b74e40026b4f814ed7b94ec0b",
+        "p_path": "mapsforge-core/src/main/java/org/mapsforge/core/util/LatLongUtils.java",
+        "t_path": "mapsforge-core/src/test/java/org/mapsforge/core/util/LatLongUtilsTest.java",
+        "p_name": "zoomforbounds",
+        "t_name": "zoomforboundstest",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___commons-io",
+        "commit": "496d9dae44d420889690e526e4d3968e5571c560",
+        "p_path": "src/main/java/org/apache/commons/io/FileUtils.java",
+        "t_path": "src/test/java/org/apache/commons/io/FileUtilsTest.java",
+        "p_name": "copyurltofile",
+        "t_name": "testcopyurltofile",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "microsoft___appcenter-sdk-android",
+        "commit": "a36f5c0b4fd26b236848bf775b6e518c16d4a4e9",
+        "p_path": "sdk/appcenter-distribute/src/main/java/com/microsoft/appcenter/distribute/Distribute.java",
+        "t_path": "sdk/appcenter-distribute/src/test/java/com/microsoft/appcenter/distribute/DistributeTest.java",
+        "p_name": "showmandatorydownloadreadydialog",
+        "t_name": "showmandatorydownloadreadydialogtest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___usergrid",
+        "commit": "f7d3e3c48be9f7d26befa3ea37d976ab42a457e5",
+        "p_path": "stack/corepersistence/graph/src/main/java/org/apache/usergrid/persistence/graph/serialization/util/EdgeHasher.java",
+        "t_path": "stack/corepersistence/graph/src/test/java/org/apache/usergrid/persistence/graph/serialization/util/EdgeHasherTest.java",
+        "p_name": "createedgehash",
+        "t_name": "collisiontest",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "linkedin___rest.li",
+        "commit": "8cc77c75e139cd872ad8e06bae2a76e451f4ae31",
+        "p_path": "data-avro/src/main/java/com/linkedin/data/avro/DataTranslator.java",
+        "t_path": "data-avro/src/test/java/com/linkedin/data/avro/TestDataTranslator.java",
+        "p_name": "translate",
+        "t_name": "testdatatranslator",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "alibaba___nacos",
+        "commit": "1969f00aa52aa4c6d6355b064146a2a8865d4de0",
+        "p_path": "naming/src/main/java/com/alibaba/nacos/naming/utils/ServiceUtil.java",
+        "t_path": "naming/src/test/java/com/alibaba/nacos/naming/utils/ServiceUtilTest.java",
+        "p_name": "pageservicename",
+        "t_name": "testpageservicename",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___flume",
+        "commit": "d6bf08b54e467a6bdc6a5fc0edd41c51200e9da1",
+        "p_path": "flume-ng-sinks/flume-ng-kafka-sink/src/main/java/org/apache/flume/sink/kafka/KafkaSink.java",
+        "t_path": "flume-ng-sinks/flume-ng-kafka-sink/src/test/java/org/apache/flume/sink/kafka/TestKafkaSink.java",
+        "p_name": "process",
+        "t_name": "testemptychannel",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "FasterXML___jackson-databind",
+        "commit": "1e6105690173efc3895099fa72ea5619f9725dcf",
+        "p_path": "src/main/java/com/fasterxml/jackson/databind/util/ISO8601Utils.java",
+        "t_path": "src/test/java/com/fasterxml/jackson/databind/util/ISO8601UtilsTest.java",
+        "p_name": "parse",
+        "t_name": "testparse",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "hs-web___hsweb-framework",
+        "commit": "60e094c9831c4bdee190d09701f5e4a4afe30eb9",
+        "p_path": "hsweb-authorization/hsweb-authorization-api/src/main/java/org/hswebframework/web/authorization/token/redis/RedisUserTokenManager.java",
+        "t_path": "hsweb-authorization/hsweb-authorization-api/src/test/java/org/hswebframework/web/authorization/token/redis/RedisUserTokenManagerTest.java",
+        "p_name": "touch",
+        "t_name": "testsigntimeout",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "naver___ngrinder",
+        "commit": "0497043bb4c86374c23bbaa9a8d13652cba89ab1",
+        "p_path": "ngrinder-core/src/main/java/org/ngrinder/model/User.java",
+        "t_path": "ngrinder-core/src/test/java/org/ngrinder/model/UserTest.java",
+        "p_name": "validate",
+        "t_name": "testvalidate",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "ifeilong___feilong-core",
+        "commit": "a222dcf3764aa3fe6ab231ac61fd6a1ca1e88e68",
+        "p_path": "src/main/java/com/feilong/core/util/MapUtil.java",
+        "t_path": "src/test/java/com/feilong/core/util/MapUtilTest.java",
+        "p_name": "getsubmapexcludekeys",
+        "t_name": "testgetsubmapexcludekeys",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "imagej___imagej2",
+        "commit": "ad2a092fd362dfaad88c1f68bc30b5229c564a37",
+        "p_path": "_ij1-patches/src/main/java/ij/ImagePlus.java",
+        "t_path": "_ij1-patches/src/test/java/ij/ImagePlusTest.java",
+        "p_name": "getpixel",
+        "t_name": "testgetpixel",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___struts",
+        "commit": "6916f47c97ae06c7d0a1dedba38cefcd6566ee36",
+        "p_path": "core/src/main/java/org/apache/struts2/interceptor/I18nInterceptor.java",
+        "t_path": "core/src/test/java/org/apache/struts2/interceptor/I18nInterceptorTest.java",
+        "p_name": "getlocalefromparam",
+        "t_name": "testactioncontextlocaleispreservedwhennotoverridden",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___guacamole-client",
+        "commit": "e216f83c49bd6eeaa8f453d88b894d048a636063",
+        "p_path": "guacamole-ext/src/main/java/org/apache/guacamole/token/TokenFilter.java",
+        "t_path": "guacamole-ext/src/test/java/org/apache/guacamole/token/TokenFilterTest.java",
+        "p_name": "filter",
+        "t_name": "testfilter",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "4581380113a7edf67936a0d567fc469de709e508",
+        "p_path": "src/main/java/org/traccar/protocol/MegastekProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/MegastekProtocolDecoderTest.java",
+        "p_name": "decodenew",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "mapsforge___mapsforge",
+        "commit": "0600e63ae50ace933a0f1fff6682aaa7b444db5e",
+        "p_path": "mapsforge-samples-awt/src/main/java/org/mapsforge/samples/awt/Samples.java",
+        "t_path": "mapsforge-samples-awt/src/test/java/org/mapsforge/samples/awt/SamplesTest.java",
+        "p_name": "main",
+        "t_name": "maintest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "nuls-io___nuls-v1",
+        "commit": "2f93e741bc415bdfc9023839a1f5a863bad49277",
+        "p_path": "consensus-module/poc/consensus-poc-base/src/main/java/io/nuls/consensus/poc/task/BlockProcessTask.java",
+        "t_path": "consensus-module/poc/consensus-poc-base/src/test/java/io/nuls/consensus/poc/task/BlockProcessTaskTest.java",
+        "p_name": "run",
+        "t_name": "testrun",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "fabric8io___kubernetes-client",
+        "commit": "8fe5c8c4b7709105117f916a37ed1fbb80b02ea8",
+        "p_path": "kubernetes-client/src/main/java/io/fabric8/kubernetes/client/informers/cache/ProcessorStore.java",
+        "t_path": "kubernetes-client/src/test/java/io/fabric8/kubernetes/client/informers/cache/ProcessorStoreTest.java",
+        "p_name": "replace",
+        "t_name": "testsyncevents",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "Graylog2___graylog2-server",
+        "commit": "7071449487c74a3302292a9d81f3854500db0d75",
+        "p_path": "graylog2-plugin-interfaces/src/main/java/org/graylog2/plugin/Version.java",
+        "t_path": "graylog2-plugin-interfaces/src/test/java/org/graylog2/plugin/VersionTest.java",
+        "p_name": "greaterminor",
+        "t_name": "testgreaterminor",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "MockBukkit___MockBukkit",
+        "commit": "d3c3e7dec374d72a36504818177e12cb72bfae70",
+        "p_path": "src/main/java/be/seeseemelk/mockbukkit/block/data/BlockDataMock.java",
+        "t_path": "src/test/java/be/seeseemelk/mockbukkit/block/data/BlockDataMockTest.java",
+        "p_name": "hashcode",
+        "t_name": "testhashcode",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "qos-ch___logback",
+        "commit": "a4fa25cdd79b2007a7637814e9bc26f7da556936",
+        "p_path": "logback-core/src/main/java/ch/qos/logback/core/LifeCycleManager.java",
+        "t_path": "logback-core/src/test/java/ch/qos/logback/core/LifeCycleManagerTest.java",
+        "p_name": "register",
+        "t_name": "testregisterandreset",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "pgjdbc___pgjdbc",
+        "commit": "50f6d510a882e5350afc4304b15d33e8ca33867b",
+        "p_path": "pgjdbc/src/main/java/org/postgresql/Driver.java",
+        "t_path": "pgjdbc/src/test/java/org/postgresql/test/jdbc2/DriverTest.java",
+        "p_name": "connect",
+        "t_name": "testconnect",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "etsy___statsd-jvm-profiler",
+        "commit": "2153a410a38be1d6e23efffbfeac8d3622199883",
+        "p_path": "src/main/java/com/etsy/statsd/profiler/util/StackTraceFormatter.java",
+        "t_path": "src/test/java/com/etsy/statsd/profiler/util/StackTraceFormatterTest.java",
+        "p_name": "formatstacktrace",
+        "t_name": "testformatstacktrace",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "fair-acc___chart-fx",
+        "commit": "aac2f35daef26cb2eee41a0acad22fec0e97331d",
+        "p_path": "chartfx-dataset/src/main/java/de/gsi/dataset/utils/CircularBuffer.java",
+        "t_path": "chartfx-dataset/src/test/java/de/gsi/dataset/utils/CircluarBufferTest.java",
+        "p_name": "remainingcapacity",
+        "t_name": "testcircularbuffer",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___mahout",
+        "commit": "2c005ed09a80889b83bbcf09972804a6c4278302",
+        "p_path": "core/src/main/java/org/apache/mahout/clustering/dirichlet/models/SampledNormalModel.java",
+        "t_path": "core/src/test/java/org/apache/mahout/clustering/TestPrintableInterface.java",
+        "p_name": "asformatstring",
+        "t_name": "testdirichletsamplednormalmodel",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "wwadge___bonecp",
+        "commit": "920357ef6cee7d4f9cc2dc04aa71929a73159cd0",
+        "p_path": "bonecp/src/main/java/com/jolbox/bonecp/ConnectionHandle.java",
+        "t_path": "bonecp/src/test/java/com/jolbox/bonecp/TestConnectionHandle.java",
+        "p_name": "markpossiblybroken",
+        "t_name": "testmarkpossiblybroken",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___eventmesh",
+        "commit": "6a8a7f70653fea4a67a6def4efc543af0afc865a",
+        "p_path": "eventmesh-storage-plugin/eventmesh-storage-standalone/src/main/java/org/apache/eventmesh/storage/standalone/admin/StandaloneAdmin.java",
+        "t_path": "eventmesh-storage-plugin/eventmesh-storage-standalone/src/test/java/org/apache/eventmesh/storage/standalone/admin/StandaloneAdminTest.java",
+        "p_name": "gettopic",
+        "t_name": "testgettopic",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___wicket",
+        "commit": "2bd7fbcadc504f6d827f7c5f02a9b1af6a689d55",
+        "p_path": "wicket/src/main/java/org/apache/wicket/protocol/http/request/WebExternalResourceRequestHandler.java",
+        "t_path": "wicket/src/test/java/org/apache/wicket/protocol/http/WebExternalResourceTest.java",
+        "p_name": "equals",
+        "t_name": "testwebexternalresourcerequesttarget",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "google___mug",
+        "commit": "8ee4ce3b8821b5a2912317791015ee2ff9f24b33",
+        "p_path": "core/src/main/java/com/google/mu/util/stream/BiStream.java",
+        "t_path": "core/src/test/java/com/google/mu/util/stream/BiStreamTest.java",
+        "p_name": "bistream",
+        "t_name": "testbistream",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "java-diff-utils___java-diff-utils",
+        "commit": "a018e9c432056e4ee1e79474aa7af6591ae2f9d7",
+        "p_path": "src/main/java/com/github/difflib/unifieddiff/UnifiedDiffWriter.java",
+        "t_path": "src/test/java/com/github/difflib/unifieddiff/UnifiedDiffWriterTest.java",
+        "p_name": "write",
+        "t_name": "testwrite",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "elastic___apm-agent-java",
+        "commit": "639cfac43f9d2ad3022d6d50da384ca8d46d09e9",
+        "p_path": "apm-agent-core/src/main/java/co/elastic/apm/agent/report/serialize/DslJsonSerializer.java",
+        "t_path": "apm-agent-core/src/test/java/co/elastic/apm/agent/report/serialize/DslJsonSerializerTest.java",
+        "p_name": "serializespan",
+        "t_name": "testcompositespan",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___linkis",
+        "commit": "00410f949cd132b2559a8f487c536c4cf67e5eb3",
+        "p_path": "linkis-public-enhancements/linkis-publicservice/linkis-jobhistory/src/main/java/org/apache/linkis/jobhistory/restful/api/QueryRestfulApi.java",
+        "t_path": "linkis-public-enhancements/linkis-publicservice/linkis-jobhistory/src/test/java/org/apache/linkis/jobhistory/restful/api/QueryRestfulApiTest.java",
+        "p_name": "list",
+        "t_name": "testlist",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "brianfrankcooper___YCSB",
+        "commit": "d9b1030ed016538b30ac5b68bad8d665d7e7e166",
+        "p_path": "orientdb/src/main/java/com/yahoo/ycsb/db/OrientDBClient.java",
+        "t_path": "orientdb/src/test/java/com/yahoo/ycsb/db/OrientDBClientTest.java",
+        "p_name": "scan",
+        "t_name": "scantest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "JumpMind___symmetric-ds",
+        "commit": "efa78ec1c68728591467cbe410d8b6806134677d",
+        "p_path": "symmetric-util/src/main/java/org/jumpmind/util/FormatUtils.java",
+        "t_path": "symmetric-util/src/test/java/org/jumpmind/util/FormatUtilsTest.java",
+        "p_name": "iswildcardmatch",
+        "t_name": "testiswildcardmatch",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "helidon-io___helidon",
+        "commit": "ac1b6096379ce47f77cea257b28777a7f25101a3",
+        "p_path": "config/hocon/src/main/java/io/helidon/config/hocon/HoconConfigParser.java",
+        "t_path": "config/hocon/src/test/java/io/helidon/config/hocon/HoconConfigParserTest.java",
+        "p_name": "fromlist",
+        "t_name": "testparserfromjson",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "asterisk-java___asterisk-java",
+        "commit": "ea82b2f2b660a4654690de9d901ea24345f93860",
+        "p_path": "src/main/java/org/asteriskjava/manager/internal/ActionBuilderImpl.java",
+        "t_path": "src/test/java/org/asteriskjava/manager/internal/ActionBuilderImplTest.java",
+        "p_name": "buildaction",
+        "t_name": "testbuildaction",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "6609481cc18098e167881d34facffe42fb9fd36b",
+        "p_path": "dependency-check-core/src/main/java/org/owasp/dependencycheck/data/lucene/LuceneUtils.java",
+        "t_path": "dependency-check-core/src/test/java/org/owasp/dependencycheck/data/lucene/LuceneUtilsTest.java",
+        "p_name": "appendescapedlucenequery",
+        "t_name": "testappendescapedlucenequery",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "41b5577dd8574309104c880191a35ba3bca600d4",
+        "p_path": "src/main/java/org/traccar/protocol/RstProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/RstProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jenkinsci___plugin-installation-manager-tool",
+        "commit": "2fd115e7216e8e6eb588b3730b64060cd6cfb035",
+        "p_path": "plugin-management-library/src/main/java/io/jenkins/tools/pluginmanager/impl/PluginManager.java",
+        "t_path": "plugin-management-library/src/test/java/io/jenkins/tools/pluginmanager/impl/PluginManagerTest.java",
+        "p_name": "start",
+        "t_name": "starttest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "facebook___react-native",
+        "commit": "75e49a0637eaa3bd3bb7e445648f084a42d9c8af",
+        "p_path": "ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputManager.java",
+        "t_path": "ReactAndroid/src/test/java/com/facebook/react/views/textinput/ReactTextInputPropertyTest.java",
+        "p_name": "setkeyboardtype",
+        "t_name": "testkeyboardtype",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "hneemann___Digital",
+        "commit": "17354d9de53ad21e171d6dfad856a83e9c3d1d4f",
+        "p_path": "src/main/java/de/neemann/digital/gui/SaveAsHelper.java",
+        "t_path": "src/test/java/de/neemann/digital/gui/SaveAsHelperTest.java",
+        "p_name": "checksuffix",
+        "t_name": "testchecksuffix",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jenkinsci___git-plugin",
+        "commit": "133609e538e9dc0d5f19d94fb4ee38079741b660",
+        "p_path": "src/main/java/hudson/plugins/git/GitChangeSet.java",
+        "t_path": "src/test/java/hudson/plugins/git/GitChangeSetTest.java",
+        "p_name": "findorcreateuser",
+        "t_name": "testfindorcreateuser",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "dromara___hutool",
+        "commit": "52d341e650fda6e1b765b1d49cf4db91444bc998",
+        "p_path": "hutool-core/src/main/java/cn/hutool/core/collection/ListUtil.java",
+        "t_path": "hutool-core/src/test/java/cn/hutool/core/collection/ListUtilTest.java",
+        "p_name": "page",
+        "t_name": "pagetest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "Graylog2___graylog2-server",
+        "commit": "7e6d98c7cd77a76f1598c53edef16deb0fa82be5",
+        "p_path": "graylog2-server/src/main/java/org/graylog2/shared/security/tls/SelfSignedCertificate.java",
+        "t_path": "graylog2-server/src/test/java/org/graylog2/shared/security/tls/SelfSignedCertificateTest.java",
+        "p_name": "create",
+        "t_name": "testcreate",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "mongodb___mongo-java-driver",
+        "commit": "024c2bf853e7291ae7b3bf309fb6f402a2492ae2",
+        "p_path": "driver/src/main/com/mongodb/WriteConcern.java",
+        "t_path": "driver/src/test/unit/com/mongodb/WriteConcernTest.java",
+        "p_name": "getcommand",
+        "t_name": "testgetters",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jcodec___jcodec",
+        "commit": "5e2c1def3dbe0ec1e92e95bb0c8b15399d12c221",
+        "p_path": "src/main/java/org/jcodec/movtool/Strip.java",
+        "t_path": "src/test/java/org/jcodec/movtool/StripTest.java",
+        "p_name": "cutchunkstogaps",
+        "t_name": "testcutchunkstogaps",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "j256___ormlite-core",
+        "commit": "aa98316ece907dcfee8f7f03a859e826963047c5",
+        "p_path": "src/main/java/com/j256/ormlite/dao/DaoManager.java",
+        "t_path": "src/test/java/com/j256/ormlite/dao/DaoManagerTest.java",
+        "p_name": "registerdao",
+        "t_name": "testregisterdao",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "52de46aeb3b8c24471e70505d525c89becb4d3a6",
+        "p_path": "dependency-check-core/src/main/java/org/owasp/dependencycheck/analyzer/ArchiveAnalyzer.java",
+        "t_path": "dependency-check-core/src/test/java/org/owasp/dependencycheck/analyzer/ArchiveAnalyzerTest.java",
+        "p_name": "analyze",
+        "t_name": "testanalyze",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "bumptech___glide",
+        "commit": "2cc1789d6ac7e13760b9c33b13ed391cba4eab02",
+        "p_path": "library/src/main/java/com/bumptech/glide/request/SingleRequest.java",
+        "t_path": "library/src/test/java/com/bumptech/glide/request/SingleRequestTest.java",
+        "p_name": "isequivalentto",
+        "t_name": "testisequivalentto",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "salesforce___Argus",
+        "commit": "cebe015f80343e4e096ba91ac4b046e57c0828b2",
+        "p_path": "ArgusCore/src/main/java/com/salesforce/dva/argus/service/alert/notifier/DefaultNotifier.java",
+        "t_path": "ArgusCore/src/test/java/com/salesforce/dva/argus/service/NotifierTest.java",
+        "p_name": "getexpressionwithabsolutestartandendtimestamps",
+        "t_name": "testabsolutetimestampsinexpression",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___struts",
+        "commit": "ecbdc6091aba42e888344f4048ace752e91307e4",
+        "p_path": "plugins/rest/src/main/java/org/apache/struts2/rest/DefaultHttpHeaders.java",
+        "t_path": "plugins/rest/src/test/java/org/apache/struts2/rest/DefaultHttpHeadersTest.java",
+        "p_name": "apply",
+        "t_name": "testapply",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "abf3fc0e3b440a15ad1cade05324fc6e13bfb25d",
+        "p_path": "src/main/java/org/traccar/protocol/StartekProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/StartekProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "BentoBoxWorld___BentoBox",
+        "commit": "f5bbe35bd818c86bb9c53af8d12d26459e0dfb86",
+        "p_path": "src/main/java/world/bentobox/bentobox/api/commands/island/IslandSethomeCommand.java",
+        "t_path": "src/test/java/world/bentobox/bentobox/api/commands/island/IslandSethomeCommandTest.java",
+        "p_name": "canexecute",
+        "t_name": "testcanexecute",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___shenyu",
+        "commit": "899415f87f94066a8234b54ba9b7c47d4d48ec00",
+        "p_path": "shenyu-plugin/shenyu-plugin-divide/src/main/java/org/apache/shenyu/plugin/divide/DividePlugin.java",
+        "t_path": "shenyu-plugin/shenyu-plugin-divide/src/test/java/org/apache/shenyu/plugin/divide/DividePluginTest.java",
+        "p_name": "doexecute",
+        "t_name": "doexecutetest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "google___mug",
+        "commit": "749f9c92a0fd0203f0ec0acab5e13754627d8e06",
+        "p_path": "core/src/main/java/org/mu/util/Retryer.java",
+        "t_path": "core/src/test/java/org/mu/util/RetryerTest.java",
+        "p_name": "fibonacci",
+        "t_name": "testfibonacci",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "chewiebug___GCViewer",
+        "commit": "f586a10cf344779a428446b8d9083c6ee4829f35",
+        "p_path": "src/main/java/com/tagtraum/perf/gcviewer/imp/DataReaderFacade.java",
+        "t_path": "src/test/java/com/tagtraum/perf/gcviewer/imp/TestDataReaderFacade.java",
+        "p_name": "openinputstream",
+        "t_name": "testopeninputstream",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___dolphinscheduler",
+        "commit": "1f92b4c4db3c2b96d767476bf77002d894de49c2",
+        "p_path": "dolphinscheduler-common/src/main/java/org/apache/dolphinscheduler/common/utils/ParameterUtils.java",
+        "t_path": "dolphinscheduler-common/src/test/java/org/apache/dolphinscheduler/common/utils/ParameterUtilsTest.java",
+        "p_name": "curingglobalparams",
+        "t_name": "testcuringglobalparams",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "64dedf892d0e0ba7a8d952ce5564092240d006c6",
+        "p_path": "dependency-check-maven/src/main/java/org/owasp/dependencycheck/maven/BaseDependencyCheckMojo.java",
+        "t_path": "dependency-check-maven/src/test/java/org/owasp/dependencycheck/maven/BaseDependencyCheckMojoTest.java",
+        "p_name": "scanartifacts",
+        "t_name": "testscanartifacts",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "raphw___byte-buddy",
+        "commit": "1cf8fb3db16d34c40f2364020dff9d7bbc053528",
+        "p_path": "byte-buddy-dep/src/main/java/net/bytebuddy/asm/Advice.java",
+        "t_path": "byte-buddy-dep/src/test/java/net/bytebuddy/asm/AdviceTest.java",
+        "p_name": "locate",
+        "t_name": "testobjectproperties",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "torakiki___sejda",
+        "commit": "144ad613a3e66e0b9d0c3fe2efeab8f464411d60",
+        "p_path": "sejda-core/src/main/java/org/sejda/core/service/DefaultTaskExecutionService.java",
+        "t_path": "sejda-core/src/test/java/org/sejda/core/service/DefaultTaskExecutionServiceTest.java",
+        "p_name": "execute",
+        "t_name": "testexecute",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jenkinsci___plugin-installation-manager-tool",
+        "commit": "51dae204cbdc741ee267fab2a9f1bb0d9920d9b8",
+        "p_path": "plugin-management-library/src/main/java/io/jenkins/tools/pluginmanager/impl/PluginManager.java",
+        "t_path": "plugin-management-library/src/test/java/io/jenkins/tools/pluginmanager/impl/PluginManagerTest.java",
+        "p_name": "findpluginstodownload",
+        "t_name": "findpluginstodownloadtest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___wicket",
+        "commit": "240a45276c56354d29cbf9dd8bc54d26fc827a82",
+        "p_path": "wicket-core/src/main/java/org/apache/wicket/markup/AbstractMarkupFragment.java",
+        "t_path": "wicket-core/src/test/java/org/apache/wicket/markup/MarkupTest.java",
+        "p_name": "find",
+        "t_name": "testfind",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "citrusframework___citrus",
+        "commit": "e0aa58200ea779a1f6c70a0150a5dc99fdfd2032",
+        "p_path": "modules/citrus-ws/src/main/java/com/consol/citrus/ws/message/SoapAttachment.java",
+        "t_path": "modules/citrus-ws/src/test/java/com/consol/citrus/ws/message/SoapAttachmentTest.java",
+        "p_name": "getcontent",
+        "t_name": "testfileresourcebinarycontent",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___eventmesh",
+        "commit": "574fc3651daeb57d9dae43b436842d728a3f5529",
+        "p_path": "eventmesh-runtime/src/main/java/org/apache/eventmesh/runtime/util/WebhookUtil.java",
+        "t_path": "eventmesh-runtime/src/test/java/org/apache/eventmesh/runtime/util/WebhookUtilTest.java",
+        "p_name": "obtaindeliveryagreement",
+        "t_name": "testobtaindeliveryagreement",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "pinterest___secor",
+        "commit": "93c96e5a428d875d08493cbd9cc0f7bf76194c11",
+        "p_path": "src/main/java/com/pinterest/secor/uploader/Uploader.java",
+        "t_path": "src/test/java/com/pinterest/secor/uploader/UploaderTest.java",
+        "p_name": "uploadfiles",
+        "t_name": "testuploadfiles",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "wiremock___wiremock",
+        "commit": "1b48c423ef5c7ce34382da021af943a2689a752c",
+        "p_path": "src/main/java/com/github/tomakehurst/wiremock/jetty9/JettyHttpServer.java",
+        "t_path": "src/test/java/com/github/tomakehurst/wiremock/jetty9/JettyHttpServerTest.java",
+        "p_name": "finalizesetup",
+        "t_name": "teststoptimeoutnotset",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "INRIA___spoon",
+        "commit": "5403f1552074216126dd0350d0426fc7ccf2dd2c",
+        "p_path": "src/main/java/spoon/support/reflect/declaration/CtElementImpl.java",
+        "t_path": "src/test/java/spoon/test/ctElement/MetadataTest.java",
+        "p_name": "getmetadatakeys",
+        "t_name": "testmetadata",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "leonchen83___redis-replicator",
+        "commit": "9f14fbb6e60bc2b59840f6cc39948b22f7ecd214",
+        "p_path": "src/main/java/com/moilioncircle/redis/replicator/rdb/RdbParser.java",
+        "t_path": "src/test/java/com/moilioncircle/redis/replicator/rdb/RdbParserTest.java",
+        "p_name": "parse",
+        "t_name": "testparse",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "iipc___openwayback",
+        "commit": "913fded643ac98c853fa910258c51ab61541447e",
+        "p_path": "wayback-core/src/main/java/org/archive/wayback/util/UrlCanonicalizer.java",
+        "t_path": "wayback-core/src/test/java/org/archive/wayback/util/UrlCanonicalizerTest.java",
+        "p_name": "urlstringtokey",
+        "t_name": "testurlstringtokey",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___kafka",
+        "commit": "7c3a596688501223f2b53ed05fca7c8b9d39c3ca",
+        "p_path": "clients/src/main/java/org/apache/kafka/common/telemetry/internals/ClientTelemetryUtils.java",
+        "t_path": "clients/src/test/java/org/apache/kafka/common/telemetry/internals/ClientTelemetryUtilsTest.java",
+        "p_name": "decompress",
+        "t_name": "testcompressdecompress",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "bootique___bootique",
+        "commit": "98d144a49fb9adc2434fd29eb271586f569669ec",
+        "p_path": "bootique-test/src/main/java/io/bootique/test/junit/BQModuleProviderChecker.java",
+        "t_path": "bootique-test/src/test/java/io/bootique/test/junit/BQModuleProviderCheckerTest.java",
+        "p_name": "testmodulesloaded",
+        "t_name": "testtestmodulesloaded",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "tony19___logback-android",
+        "commit": "a4fa25cdd79b2007a7637814e9bc26f7da556936",
+        "p_path": "logback-core/src/main/java/ch/qos/logback/core/LifeCycleManager.java",
+        "t_path": "logback-core/src/test/java/ch/qos/logback/core/LifeCycleManagerTest.java",
+        "p_name": "register",
+        "t_name": "testregisterandreset",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "iSoftStoneGroup___EazyBuilder",
+        "commit": "b669e9bfc4456b24a39c733cb9b9c7f005b7509a",
+        "p_path": "eazybuilder-server/pipeline/jenkins-client/src/main/java/com/eazybuilder/ci/jenkins/JenkinsPipelineService.java",
+        "t_path": "eazybuilder-server/pipeline/jenkins-client/src/test/java/com/eazybuilder/ci/jenkins/JenkinsPipelineServiceTest.java",
+        "p_name": "generatepipelinejob",
+        "t_name": "testgeneratepipelinejob",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "Atmosphere___atmosphere",
+        "commit": "7efa0abdf6982cdaadff0ee76b67e25e042b6436",
+        "p_path": "modules/cpr/src/main/java/org/atmosphere/interceptor/SSEAtmosphereInterceptor.java",
+        "t_path": "modules/cpr/src/test/java/org/atmosphere/interceptor/SSEAtmosphereInterceptorTest.java",
+        "p_name": "encodemultilinedata",
+        "t_name": "testdatawriter",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "ad102cd882dd9ec6f7e4ffedad34c793184ea23b",
+        "p_path": "src/main/java/org/traccar/protocol/FlexApiProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/FlexApiProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___dubbo",
+        "commit": "152f783ee9f5989cc4b92c944dc1c276031ba235",
+        "p_path": "dubbo-rpc/src/main/java/com/alibaba/dubbo/rpc/support/MockInvoker.java",
+        "t_path": "dubbo-cluster/src/test/java/com/alibaba/dubbo/rpc/cluster/support/AbstractClusterInvokerTest.java",
+        "p_name": "invoke",
+        "t_name": "testmockinvokerfromoverride_invoke_check_int",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "dita-ot___dita-ot",
+        "commit": "05decc8526c99e19e8b5610317a1328703e8e51e",
+        "p_path": "src/main/java/org/dita/dost/util/DITAOTCopy.java",
+        "t_path": "src/test/java/org/dita/dost/util/TestDITAOTCopy.java",
+        "p_name": "execute",
+        "t_name": "testexecute",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "iluwatar___30-seconds-of-java",
+        "commit": "ea16dfbab5fa77db21ac6df79539e77f9c3b1a84",
+        "p_path": "src/main/java/Library.java",
+        "t_path": "src/test/java/LibraryTest.java",
+        "p_name": "httppost",
+        "t_name": "testhttppost",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___servicecomb-java-chassis",
+        "commit": "a140ebf04e9602649b114dc4fa65f6473d137028",
+        "p_path": "core/src/main/java/org/apache/servicecomb/core/ConfigurationSpringInitializer.java",
+        "t_path": "core/src/test/java/org/apache/servicecomb/core/TestConfigurationSpringInitializer.java",
+        "p_name": "setenvironment",
+        "t_name": "testsetenvironment",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "imagej___imagej2",
+        "commit": "849c2b9ac27af47f85c95510ab3249c72d26a2df",
+        "p_path": "core/legacy/src/main/java/imagej/legacy/LegacyImageMap.java",
+        "t_path": "core/legacy/src/test/java/imagej/legacy/LegacyImageMapTest.java",
+        "p_name": "registerlegacyimage",
+        "t_name": "testregisterlegacyimage",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "checkstyle___checkstyle",
+        "commit": "9324fdcf34b60f100b43dd18f52898c6418893eb",
+        "p_path": "src/main/java/com/puppycrawl/tools/checkstyle/checks/coding/VariableDeclarationUsageDistanceCheck.java",
+        "t_path": "src/test/java/com/puppycrawl/tools/checkstyle/checks/coding/VariableDeclarationUsageDistanceCheckTest.java",
+        "p_name": "visittoken",
+        "t_name": "testignorefinaloption",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "javamelody___javamelody",
+        "commit": "96e0e6c2cb4e4a52fcf7991b9cbfe4a0a019254e",
+        "p_path": "javamelody-core/src/main/java/net/bull/javamelody/JdbcWrapperHelper.java",
+        "t_path": "javamelody-core/src/test/java/net/bull/javamelody/TestJdbcWrapperHelper.java",
+        "p_name": "getjndidatasources",
+        "t_name": "testgetjndidatasources",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "nextcloud___notes-android",
+        "commit": "30582f19ad33b6d5f0421998faaf780dd7e4e3da",
+        "p_path": "markdown/src/main/java/it/niedermann/android/markdown/markwon/plugins/ToggleableTaskListPlugin.java",
+        "t_path": "markdown/src/test/java/it/niedermann/android/markdown/markwon/plugins/ToggleableTaskListPluginTest.java",
+        "p_name": "findfreeranges",
+        "t_name": "testfindfreeranges",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "ctripcorp___x-pipe",
+        "commit": "7f67ee9a949eac4ccd5a397d6f3cde549f384e78",
+        "p_path": "redis/redis-console/src/main/java/com/ctrip/xpipe/redis/console/service/impl/ClusterServiceImpl.java",
+        "t_path": "redis/redis-console/src/test/java/com/ctrip/xpipe/redis/console/service/impl/ClusterServiceImplTest.java",
+        "p_name": "updateclusterdesignateroutes",
+        "t_name": "testupdateclusterdesignateroutes",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "dromara___hutool",
+        "commit": "9e620b80213ad06c9d62d5ab6b3c00c43231802d",
+        "p_path": "hutool-core/src/main/java/cn/hutool/core/util/RandomUtil.java",
+        "t_path": "hutool-core/src/test/java/cn/hutool/core/util/RandomUtilTest.java",
+        "p_name": "randomeleset",
+        "t_name": "randomelesettest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "helun___Ektorp",
+        "commit": "9800a1f481c242f9bd1a8a8091ec019148a31373",
+        "p_path": "org.ektorp/src/main/java/org/ektorp/impl/StdCouchDbConnector.java",
+        "t_path": "org.ektorp/src/test/java/org/ektorp/impl/StdCouchDbConnectorTest.java",
+        "p_name": "ensurefullcommit",
+        "t_name": "testensurefullcommit",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "OpenHFT___Chronicle-Core",
+        "commit": "ff3659743fb91158b98764e1b49ef0afe97d4afc",
+        "p_path": "src/main/java/net/openhft/chronicle/core/OS.java",
+        "t_path": "src/test/java/net/openhft/chronicle/core/OSTest.java",
+        "p_name": "map",
+        "t_name": "testmap",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "ctripcorp___x-pipe",
+        "commit": "864d3efb8632f7d83ed7915128ee78f63af0fc92",
+        "p_path": "redis/redis-console/src/main/java/com/ctrip/xpipe/redis/console/service/impl/ClusterServiceImpl.java",
+        "t_path": "redis/redis-console/src/test/java/com/ctrip/xpipe/redis/console/service/impl/ClusterServiceImplTest.java",
+        "p_name": "updatestatusbyid",
+        "t_name": "testupdatestatusbyid",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "HXSecurity___DongTai-agent-java",
+        "commit": "51d792b6316bf8066e9779dcb1b02d7442cd9f8f",
+        "p_path": "dongtai-common/src/main/java/io/dongtai/iast/common/config/RequestDenyList.java",
+        "t_path": "dongtai-common/src/test/java/io/dongtai/iast/common/config/RequestDenyListTest.java",
+        "p_name": "match",
+        "t_name": "testmatch",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "internetarchive___heritrix3",
+        "commit": "52703c6eb4e4d6c927beecaae0d937614c58c741",
+        "p_path": "commons/src/main/java/org/archive/util/ArchiveUtils.java",
+        "t_path": "commons/src/test/java/org/archive/util/ArchiveUtilsTest.java",
+        "p_name": "doubletostring",
+        "t_name": "testdoubletostring",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "3b02cd0e39483d2a7f10415ff16c1b03e2863016",
+        "p_path": "dependency-check-core/src/main/java/org/owasp/dependencycheck/analyzer/DependencyBundlingAnalyzer.java",
+        "t_path": "dependency-check-core/src/test/java/org/owasp/dependencycheck/analyzer/DependencyBundlingAnalyzerTest.java",
+        "p_name": "analyze",
+        "t_name": "testanalyze",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "oshi___oshi",
+        "commit": "6861e42f7a5ccb01e51fc3a73407216afde4ef71",
+        "p_path": "oshi-core/src/main/java/oshi/util/ParseUtil.java",
+        "t_path": "oshi-core/src/test/java/oshi/util/ParseUtilTest.java",
+        "p_name": "parsemultipliedtolongs",
+        "t_name": "testparsemultipliedtolongs",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "OpenHFT___Chronicle-Bytes",
+        "commit": "f48167ec0e42c6ea0c7a106cd804b723040970ce",
+        "p_path": "src/main/java/net/openhft/chronicle/bytes/MappedFile.java",
+        "t_path": "src/test/java/net/openhft/chronicle/bytes/MappedFileTest.java",
+        "p_name": "warmup",
+        "t_name": "testwarmup",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "checkstyle___checkstyle",
+        "commit": "39cafcc5bbe8b18ca95026e76cdaa3d846db2d6d",
+        "p_path": "src/main/java/com/puppycrawl/tools/checkstyle/checks/modifier/RedundantModifierCheck.java",
+        "t_path": "src/test/java/com/puppycrawl/tools/checkstyle/checks/modifier/RedundantModifierCheckTest.java",
+        "p_name": "processmethods",
+        "t_name": "testenummethods",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "BentoBoxWorld___BentoBox",
+        "commit": "a6d25d68a9a964a3de7976fb705cbb2589d85a1c",
+        "p_path": "src/main/java/world/bentobox/bentobox/listeners/DeathListener.java",
+        "t_path": "src/test/java/world/bentobox/bentobox/listeners/DeathListenerTest.java",
+        "p_name": "onplayerdeathevent",
+        "t_name": "testonplayerdeathevent",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "dcdbbf298e91e04c36c0310ac9c3314000d8781f",
+        "p_path": "src/main/java/org/traccar/protocol/GotopProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/GotopProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "brettwooldridge___HikariCP",
+        "commit": "de20a9e71cf5a708674ab1508f5271ef559a2c4a",
+        "p_path": "src/main/java/com/zaxxer/hikari/util/FastStatementList.java",
+        "t_path": "src/test/java/com/zaxxer/hikari/TestFastStatementList.java",
+        "p_name": "add",
+        "t_name": "testoverflow",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "SonarSource___sonar-java",
+        "commit": "a0f10e0673b82aae56d4a25dce8f0a25597c5d06",
+        "p_path": "java-checks/src/main/java/org/sonar/java/checks/ShiftOnIntOrLongCheck.java",
+        "t_path": "java-checks/src/test/java/org/sonar/java/checks/ShiftOnIntOrLongCheckTest.java",
+        "p_name": "getmessage",
+        "t_name": "test",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "nysenate___OpenLegislation",
+        "commit": "252fe0a134f85cf4e607f7b8293e2f7e499ea96d",
+        "p_path": "src/main/java/gov/nysenate/openleg/processor/bill/BillXMLBillDigestProcessor.java",
+        "t_path": "src/test/java/gov/nysenate/openleg/processor/bill/digest/BillXMLBillDigestProcessorTest.java",
+        "p_name": "process",
+        "t_name": "digestbilltest",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "runelite___runelite",
+        "commit": "98096fd1e037da6225dc810ecc7ef214d63e5ffa",
+        "p_path": "cache/src/main/java/net/runelite/cache/models/ObjExporter.java",
+        "t_path": "cache/src/test/java/net/runelite/cache/models/ObjExporterTest.java",
+        "p_name": "export",
+        "t_name": "testexport",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "shred___acme4j",
+        "commit": "01a2206c62db61ab808577cbb4d95eded9572dd0",
+        "p_path": "acme4j-client/src/main/java/org/shredzone/acme4j/AccountBuilder.java",
+        "t_path": "acme4j-client/src/test/java/org/shredzone/acme4j/AccountBuilderTest.java",
+        "p_name": "addemail",
+        "t_name": "testemailaddresses",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "microsoft___mssql-jdbc",
+        "commit": "bd01329291f21672581aa6fc27c552bf07816004",
+        "p_path": "src/main/java/com/microsoft/sqlserver/jdbc/osgi/Activator.java",
+        "t_path": "src/test/java/com/microsoft/sqlserver/jdbc/osgi/DataFactoryTest.java",
+        "p_name": "start",
+        "t_name": "testactivator",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___dubbo",
+        "commit": "e3f8af756d3de9e5ed00c453e804cec548a33571",
+        "p_path": "dubbo-common/src/main/java/com/alibaba/dubbo/common/beanutil/JavaBeanSerializeUtil.java",
+        "t_path": "dubbo-common/src/test/java/com/alibaba/dubbo/common/beanutil/JavaBeanSerializeUtilTest.java",
+        "p_name": "serializeinternal",
+        "t_name": "testserialize_array",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___wicket",
+        "commit": "7385f0a37eddf466076ef90ab670f12be5763cef",
+        "p_path": "wicket-core/src/main/java/org/apache/wicket/request/handler/render/WebPageRenderer.java",
+        "t_path": "wicket-core/src/test/java/org/apache/wicket/request/handler/render/WebPageRendererTest.java",
+        "p_name": "respond",
+        "t_name": "testredirecttobufferstatefulpageandsameurls",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "graphhopper___graphhopper",
+        "commit": "5cb5e045f3ab57e4b1a2db965f018bcd31a1d96c",
+        "p_path": "core/src/main/java/com/graphhopper/routing/util/CarFlagEncoder.java",
+        "t_path": "core/src/test/java/com/graphhopper/routing/util/CarFlagEncoderTest.java",
+        "p_name": "getspeed",
+        "t_name": "testspeed",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "codelibs___fess",
+        "commit": "3640a5eb5c356e4d22a51bfd650c67b10219f927",
+        "p_path": "src/main/java/jp/sf/fess/util/ResourceUtil.java",
+        "t_path": "src/test/java/jp/sf/fess/util/ResourceUtilTest.java",
+        "p_name": "resolve",
+        "t_name": "test_resolve",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "50e7e2b17ba580afddaf11a0ea079b4535cf2478",
+        "p_path": "src/main/java/org/traccar/protocol/SigfoxProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/SigfoxProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___commons-io",
+        "commit": "1c0a9c0dcd650ab38bb7f6df2ab0d24f077f0d42",
+        "p_path": "src/main/java/org/apache/commons/io/function/IOBiConsumer.java",
+        "t_path": "src/test/java/org/apache/commons/io/function/IOBiConsumerTest.java",
+        "p_name": "andthen",
+        "t_name": "testandthen",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "0527e6817084a1c907ddb41ff9bb3c6e67a3dabd",
+        "p_path": "src/main/java/org/traccar/protocol/SuntechProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/SuntechProtocolDecoderTest.java",
+        "p_name": "decode2356",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "ifeilong___feilong-core",
+        "commit": "5ad40b785ae4e1e5df34de4db4cf4d33a4797029",
+        "p_path": "src/main/java/com/feilong/core/util/RandomUtil.java",
+        "t_path": "src/test/java/com/feilong/core/util/RandomUtilTest.java",
+        "p_name": "createrandom",
+        "t_name": "testcreaterandom",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "undera___jmeter-plugins",
+        "commit": "bb6c44ea9da579494f45b928de8dce79889ff1a4",
+        "p_path": "plugins/tst/src/main/java/kg/apc/jmeter/timers/VariableThroughputTimer.java",
+        "t_path": "plugins/tst/src/test/java/kg/apc/jmeter/timers/VariableThroughputTimerTest.java",
+        "p_name": "delay",
+        "t_name": "testdelay",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "818fe3e3e85c2e19dfcd12770b7aaee5820c0099",
+        "p_path": "src/main/java/org/traccar/protocol/WialonProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/WialonProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "Graylog2___graylog2-server",
+        "commit": "c56acad01af00c54ec7585bee2e7dfa29cec4ec2",
+        "p_path": "src/main/java/org/graylog2/inputs/gelf/GELFMessageChunk.java",
+        "t_path": "src/test/java/org/graylog2/inputs/gelf/GELFMessageChunkTest.java",
+        "p_name": "tostring",
+        "t_name": "testtostring",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "boyter___searchcode-server",
+        "commit": "8dc8840fb15d2caa2519cae10e53364505abd459",
+        "p_path": "src/main/java/com/searchcode/app/service/route/CommonRouteService.java",
+        "t_path": "src/test/java/com/searchcode/app/service/route/CommonRouteServiceTest.java",
+        "p_name": "getphotoid",
+        "t_name": "testgetphotoid",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "hidroh___materialistic",
+        "commit": "cf1ab0e574316dca1cbeec494f4d3e16f09b882f",
+        "p_path": "app/src/main/java/io/github/hidroh/materialistic/ComposeActivity.java",
+        "t_path": "app/src/test/java/io/github/hidroh/materialistic/ComposeActivityTest.java",
+        "p_name": "oncreate",
+        "t_name": "testemptyquote",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "synthetichealth___synthea",
+        "commit": "340b7cfa2cbfdfe5ad5688572e95447a02df24a8",
+        "p_path": "src/main/java/org/mitre/synthea/modules/LifecycleModule.java",
+        "t_path": "src/test/java/org/mitre/synthea/modules/LifecycleModuleTest.java",
+        "p_name": "setupvitalsigngenerators",
+        "t_name": "testphysiologyenabled",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jtablesaw___tablesaw",
+        "commit": "cb5a9cde851e1d335111644010738dc60c97ccae",
+        "p_path": "src/main/java/com/github/lwhite1/tablesaw/io/html/HtmlTableWriter.java",
+        "t_path": "src/test/java/com/github/lwhite1/tablesaw/io/html/HtmlTableWriterTest.java",
+        "p_name": "write",
+        "t_name": "testwrite",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___dolphinscheduler",
+        "commit": "570f8f523d48cc4f252490aa2a14272bc076b4d8",
+        "p_path": "dolphinscheduler-api/src/main/java/org/apache/dolphinscheduler/api/service/ProcessInstanceService.java",
+        "t_path": "dolphinscheduler-api/src/test/java/org/apache/dolphinscheduler/api/service/ProcessInstanceServiceTest.java",
+        "p_name": "queryprocessinstancelist",
+        "t_name": "testqueryprocessinstancelist",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "torakiki___sejda",
+        "commit": "dd61845f1bd12f44a3d7ba79c19c26ab475f9b70",
+        "p_path": "sejda-sambox/src/main/java/org/sejda/impl/sambox/component/TableOfContentsCreator.java",
+        "t_path": "sejda-sambox/src/test/java/org/sejda/impl/sambox/component/TableOfContentsCreatorTest.java",
+        "p_name": "addtoc",
+        "t_name": "testaddtoc",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "brettwooldridge___HikariCP",
+        "commit": "ef82b6bf35ef14c4e51aa0b4d666b583d3ce7022",
+        "p_path": "src/main/java/com/zaxxer/hikari/util/FastStatementList.java",
+        "t_path": "src/test/java/com/zaxxer/hikari/TestFastStatementList.java",
+        "p_name": "add",
+        "t_name": "testoverflow",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "runelite___runelite",
+        "commit": "ead0b2819316481fadfab1d19b51d85732e4a895",
+        "p_path": "runelite-client/src/main/java/net/runelite/client/plugins/bank/BankPlugin.java",
+        "t_path": "runelite-client/src/test/java/net/runelite/client/plugins/bank/BankPluginTest.java",
+        "p_name": "calculate",
+        "t_name": "testcalculate",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "ICIJ___datashare",
+        "commit": "58821a75f46a625cfaa55553ce24e239f8786d15",
+        "p_path": "datashare-index/src/main/java/org/icij/datashare/text/indexing/elasticsearch/ElasticsearchSpewer.java",
+        "t_path": "datashare-index/src/test/java/org/icij/datashare/text/indexing/elasticsearch/ElasticsearchSpewerTest.java",
+        "p_name": "getmap",
+        "t_name": "test_metadata",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___commons-io",
+        "commit": "cc1bc3ba48707bdbe2f86063efcf82813498ffc5",
+        "p_path": "src/main/java/org/apache/commons/io/FilenameUtils.java",
+        "t_path": "src/test/java/org/apache/commons/io/FilenameUtilsTest.java",
+        "p_name": "equals",
+        "t_name": "testequals",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jenkinsci___git-plugin",
+        "commit": "05c5b1af187f03540e3936323eed4ffb6767f8cd",
+        "p_path": "src/main/java/hudson/plugins/git/browser/RhodeCode.java",
+        "t_path": "src/test/java/hudson/plugins/git/browser/RhodeCodeTest.java",
+        "p_name": "getdifflink",
+        "t_name": "testgetdifflinkpath",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "google___tink",
+        "commit": "e3251c869ad81ba62d3b4967f69d1843e3d22be3",
+        "p_path": "java_src/src/main/java/com/google/crypto/tink/JsonKeysetWriter.java",
+        "t_path": "java_src/src/test/java/com/google/crypto/tink/JsonKeysetWriterTest.java",
+        "p_name": "tojson",
+        "t_name": "testwrite_writesnegativeidaspositive",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "boyter___searchcode-server",
+        "commit": "88a30602e64d2dfc976b39271cc5cbacacfae318",
+        "p_path": "src/main/java/com/searchcode/app/service/IndexService.java",
+        "t_path": "src/test/java/com/searchcode/app/service/IndexServiceTest.java",
+        "p_name": "builddocument",
+        "t_name": "testbuilddocument",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___helix",
+        "commit": "8cbfdcef169ad3acabac3772b36a3b0bfedc7ba8",
+        "p_path": "helix-core/src/main/java/org/apache/helix/controller/rebalancer/waged/model/ClusterModelProvider.java",
+        "t_path": "helix-core/src/test/java/org/apache/helix/controller/rebalancer/waged/model/TestClusterModelProvider.java",
+        "p_name": "findtobeassignedreplicas",
+        "t_name": "testgenerateclustermodel",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___gobblin",
+        "commit": "f95b36fb88193546709229d1baa6962230fa88bb",
+        "p_path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/mapreduce/GobblinWorkUnitsInputFormat.java",
+        "t_path": "gobblin-runtime/src/test/java/org/apache/gobblin/runtime/mapreduce/GobblinWorkUnitsInputFormatTest.java",
+        "p_name": "getsplits",
+        "t_name": "testgetsplits",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "facebook___fresco",
+        "commit": "8fd95b0ba6742c73f7849a02e24e38de23410ae2",
+        "p_path": "imagepipeline/src/main/java/com/facebook/imagepipeline/memory/BasePool.java",
+        "t_path": "imagepipeline/src/test/java/com/facebook/imagepipeline/memory/BasePoolTest.java",
+        "p_name": "release",
+        "t_name": "testrelease",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___servicecomb-java-chassis",
+        "commit": "731e09e20e0ee4c1f295a4533fd2954370fec352",
+        "p_path": "core/src/main/java/org/apache/servicecomb/core/provider/consumer/InvokerUtils.java",
+        "t_path": "core/src/test/java/org/apache/servicecomb/core/provider/consumer/TestInvokerUtils.java",
+        "p_name": "reactiveinvoke",
+        "t_name": "testreactiveinvoke",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "alibaba___nacos",
+        "commit": "8c9934bf06cc91f0508373214a18e0f74858f66b",
+        "p_path": "config/src/main/java/com/alibaba/nacos/config/server/controller/ConfigController.java",
+        "t_path": "config/src/test/java/com/alibaba/nacos/config/server/controller/ConfigControllerTest.java",
+        "p_name": "deleteconfigs",
+        "t_name": "testdeleteconfigs",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "ThreeTen___threeten-extra",
+        "commit": "dd50dfe858641c32e84b6090dc720c835f9aab40",
+        "p_path": "src/main/java/org/threeten/extra/scale/UtcInstant.java",
+        "t_path": "src/test/java/org/threeten/extra/scale/TestUtcInstant.java",
+        "p_name": "tostring",
+        "t_name": "test_tostring",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___pdfbox",
+        "commit": "5eca1171dc621fb129c982133e0cafa51c3fbdd4",
+        "p_path": "pdfbox/src/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDTextField.java",
+        "t_path": "pdfbox/src/test/java/org/apache/pdfbox/pdmodel/interactive/form/TestFields.java",
+        "p_name": "getvalue",
+        "t_name": "testacroformsbasicfields",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___servicecomb-java-chassis",
+        "commit": "fa9ff764c73459a218ede84880dc4a4907cc5a42",
+        "p_path": "transports/transport-rest/transport-rest-client/src/main/java/org/apache/servicecomb/transport/rest/client/http/DefaultHttpClientFilter.java",
+        "t_path": "transports/transport-rest/transport-rest-client/src/test/java/org/apache/servicecomb/transport/rest/client/http/TestDefaultHttpClientFilter.java",
+        "p_name": "extractresponse",
+        "t_name": "testafterreceiveresponsenullproduceprocessor",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "SonarSource___sonar-php",
+        "commit": "8d87db2b253e3953fbc3b3875e1ea68621779391",
+        "p_path": "php-checks/src/main/java/org/sonar/php/checks/DuplicateBranchImplementationCheck.java",
+        "t_path": "php-checks/src/test/java/org/sonar/php/checks/DuplicateBranchImplementationCheckTest.java",
+        "p_name": "addissue",
+        "t_name": "test",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "zouzg___mybatis-generator-gui",
+        "commit": "98021cf0749da29fdab72136a4b2da1f533a87d6",
+        "p_path": "src/main/java/com/zzg/mybatis/generator/util/ConfigHelper.java",
+        "t_path": "src/test/java/com/zzg/mybatis/generator/util/ConfigHelperTest.java",
+        "p_name": "getalljdbcdriverjarpaths",
+        "t_name": "testgetalljdbcdriverjarpaths",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "facebook___fresco",
+        "commit": "5e8c531327c277577ab2b63feac5dcdd85922381",
+        "p_path": "drawee/src/main/java/com/facebook/drawee/drawable/FadeDrawable.java",
+        "t_path": "drawee/src/test/java/com/facebook/drawee/drawable/FadeDrawableTest.java",
+        "p_name": "fadeinlayer",
+        "t_name": "testfadeinlayer",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jenkinsci___git-plugin",
+        "commit": "622772b043d5035592836f932f6f3691135e0b36",
+        "p_path": "src/main/java/hudson/plugins/git/GitChangeSet.java",
+        "t_path": "src/test/java/hudson/plugins/git/GitChangeSetTest.java",
+        "p_name": "parsecommit",
+        "t_name": "testchangeset",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "robovm___robovm",
+        "commit": "cc870822759854f845f129227c5dd41c4ff60d57",
+        "p_path": "compiler/src/main/java/org/robovm/compiler/plugin/lambda/SClass.java",
+        "t_path": "compiler/src/test/java/org/robovm/compiler/plugin/lambda/SClassTest.java",
+        "p_name": "isassignablefrom",
+        "t_name": "testisassignablefrom",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "lenskit___lenskit",
+        "commit": "70ad3b889c8045ae3bd3e74dfb675b4a7b9bfb3b",
+        "p_path": "lenskit-core/src/main/java/org/grouplens/lenskit/norm/PreferenceDomainQuantizer.java",
+        "t_path": "lenskit-core/src/test/java/org/grouplens/lenskit/norm/TestPreferenceDomainQuantizer.java",
+        "p_name": "makevalues",
+        "t_name": "testmakevalues",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "seata___seata",
+        "commit": "23a407e236bb3d7f93fb7ad927299be5a43deb20",
+        "p_path": "server/src/main/java/io/seata/server/coordinator/DefaultCore.java",
+        "t_path": "server/src/test/java/io/seata/server/coordinator/DefaultCoreTest.java",
+        "p_name": "commit",
+        "t_name": "committest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "4a64ef748e207406be4f7aa7538d59b7b0f9735c",
+        "p_path": "src/main/java/org/traccar/protocol/HuabaoProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/HuabaoProtocolDecoderTest.java",
+        "p_name": "decodelocation",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "dromara___hutool",
+        "commit": "f68a73538e24dcb06ecd5041de24e3bf99d28b64",
+        "p_path": "hutool-core/src/main/java/cn/hutool/core/io/FileUtil.java",
+        "t_path": "hutool-core/src/test/java/cn/hutool/core/io/FileUtilTest.java",
+        "p_name": "normalize",
+        "t_name": "normalizetest",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "wwadge___bonecp",
+        "commit": "fb41f07ebe84bac9a7e1ffbe49e6c76845cf0656",
+        "p_path": "bonecp/src/main/java/com/jolbox/bonecp/BoneCP.java",
+        "t_path": "bonecp/src/test/java/com/jolbox/bonecp/TestBoneCP.java",
+        "p_name": "putconnectionbackinpartition",
+        "t_name": "testputconnectionbackinpartition",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___servicecomb-toolkit",
+        "commit": "7602ae3d3636619373a3f3385a69b4d9e2d34a16",
+        "p_path": "contractgen/src/main/java/org/apache/servicecomb/toolkit/contractgen/DefaultContractsGenerator.java",
+        "t_path": "contractgen/src/test/java/org/apache/servicecomb/toolkit/contractgen/DefaultContractsGeneratorTest.java",
+        "p_name": "canprocess",
+        "t_name": "testcanprocess",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "GoogleContainerTools___jib",
+        "commit": "b829301d0efc3d67c0028f922ae5193ddfb40f4a",
+        "p_path": "jib-cli/src/main/java/com/google/cloud/tools/jib/cli/jar/JarProcessor.java",
+        "t_path": "jib-cli/src/test/java/com/google/cloud/tools/jib/cli/jar/JarProcessorTest.java",
+        "p_name": "explodestandardjar",
+        "t_name": "testexplodemode_standard_withclasspathinmanifest",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "814dc83e21cdfbc563469c8adcdfbd278f26d551",
+        "p_path": "src/main/java/org/traccar/protocol/PluginProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/PluginProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "dita-ot___dita-ot",
+        "commit": "951f620b108b59a25b73f1f5ed42e12f5173248e",
+        "p_path": "src/main/java/org/dita/dost/writer/KeyrefPaser.java",
+        "t_path": "src/test/java/org/dita/dost/writer/KeyrefPaserTest.java",
+        "p_name": "domtosax",
+        "t_name": "testdomtosax",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "ff14d8344fde6eeae8270aff9de8c9cfcb046b92",
+        "p_path": "src/main/java/org/owasp/dependencycheck/analyzer/JarAnalyzer.java",
+        "t_path": "src/test/java/org/owasp/dependencycheck/analyzer/JarAnalyzerTest.java",
+        "p_name": "interpolatestring",
+        "t_name": "testinterpolatestring",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "facebookincubator___Battery-Metrics",
+        "commit": "b927bcfe04fa61891aab74fd4eac7762e8d8eb4a",
+        "p_path": "metrics/src/main/java/com/facebook/battery/metrics/wakelock/WakeLockMetrics.java",
+        "t_path": "metrics/src/test/java/com/facebook/battery/metrics/wakelock/WakeLockMetricsTest.java",
+        "p_name": "attributiontojsonobject",
+        "t_name": "testattributiontojsonobject",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "runelite___runelite",
+        "commit": "c2f2fdc314a6c0290336c3cebc64b93301ca34f0",
+        "p_path": "runelite-client/src/main/java/net/runelite/client/plugins/itemstats/ItemStatChanges.java",
+        "t_path": "runelite-client/src/test/java/net/runelite/client/plugins/itemstats/ItemStatChangesTest.java",
+        "p_name": "init",
+        "t_name": "testinit",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___guacamole-client",
+        "commit": "4fec4638fc8652b684eea069e9ee9fe423615bfa",
+        "p_path": "guacamole-ext/src/main/java/org/apache/guacamole/token/TokenFilter.java",
+        "t_path": "guacamole-ext/src/test/java/org/apache/guacamole/token/TokenFilterTest.java",
+        "p_name": "filter",
+        "t_name": "testfilter",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___usergrid",
+        "commit": "a5b6274864b11f27c8c95d9f1781a96c2b8b01f6",
+        "p_path": "stack/core/src/main/java/org/apache/usergrid/corepersistence/CpEntityManager.java",
+        "t_path": "stack/rest/src/test/java/org/apache/usergrid/rest/PartialUpdateTest.java",
+        "p_name": "update",
+        "t_name": "testpartialupdate",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "cmu-phil___tetrad",
+        "commit": "179dda41093e382f79286ea3e5c21765e9e961f3",
+        "p_path": "tetrad-cli/src/main/java/edu/cmu/tetrad/cli/data/SimulateDataCli.java",
+        "t_path": "tetrad-cli/src/test/java/edu/cmu/tetrad/cli/data/SimulateDataCliTest.java",
+        "p_name": "main",
+        "t_name": "testmain",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "ReactiveX___RxJava",
+        "commit": "d107ebaa37de645529e2512bfbe51153a96e9ee1",
+        "p_path": "rxjava-core/src/main/java/rx/operators/OperationParallel.java",
+        "t_path": "rxjava-core/src/test/java/rx/operators/OperationParallelTest.java",
+        "p_name": "parallel",
+        "t_name": "testparallel",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "d243bf4f48194ef7cee5bab09b59381ffd971848",
+        "p_path": "src/main/java/org/owasp/dependencycheck/reporting/ReportGenerator.java",
+        "t_path": "src/test/java/org/owasp/dependencycheck/reporting/ReportGeneratorTest.java",
+        "p_name": "generatereport",
+        "t_name": "testgeneratereport",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "strimzi___strimzi-kafka-operator",
+        "commit": "86a98fd3a3295ba39f845134120a7dba8121746c",
+        "p_path": "cluster-operator/src/main/java/io/strimzi/operator/cluster/model/KafkaConnectBuild.java",
+        "t_path": "cluster-operator/src/test/java/io/strimzi/operator/cluster/model/KafkaConnectBuildTest.java",
+        "p_name": "fromcrd",
+        "t_name": "testdeployment",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "hneemann___Digital",
+        "commit": "9bca9958f62c5451acfa0fbb6c5e558b2f095c1a",
+        "p_path": "src/main/java/de/neemann/digital/testing/parser/Context.java",
+        "t_path": "src/test/java/de/neemann/digital/testing/parser/ParserTest.java",
+        "p_name": "getvar",
+        "t_name": "test_modelinitstate",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "speedment___speedment",
+        "commit": "c36fd95b5f97a0ad05407ff3756f40e1f81ebc60",
+        "p_path": "generator/src/main/java/com/speedment/generator/TranslatorSupport.java",
+        "t_path": "generator/src/test/java/com/speedment/generator/TranslatorSupportTest.java",
+        "p_name": "basepackagename",
+        "t_name": "testbasepackagename",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "GoogleContainerTools___jib",
+        "commit": "27662f87bd66b58dbb10fdeb97cfc09fcc528c64",
+        "p_path": "jib-core/src/main/java/com/google/cloud/tools/jib/registry/credentials/json/DockerConfigTemplate.java",
+        "t_path": "jib-core/src/test/java/com/google/cloud/tools/jib/registry/credentials/json/DockerConfigTemplateTest.java",
+        "p_name": "getauthfor",
+        "t_name": "test_fromjson",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "8315d43f549cb5638575c1476ecafaa07d6d63ef",
+        "p_path": "src/main/java/org/codesecure/dependencycheck/utils/Downloader.java",
+        "t_path": "src/test/java/org/codesecure/dependencycheck/utils/DownloaderIntegrationTest.java",
+        "p_name": "fetchfile",
+        "t_name": "testfetchfile_url_string",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "PaladinCloud___CE",
+        "commit": "53772c634c0f951f436e8fb308ddc9a8a41b6243",
+        "p_path": "jobs/pacman-cloud-discovery/src/main/java/com/tmobile/cso/pacman/inventory/util/InventoryUtil.java",
+        "t_path": "jobs/pacman-cloud-discovery/src/test/java/com/tmobile/cso/pacman/inventory/util/InventoryUtilTest.java",
+        "p_name": "fetchtrusterdadvisorschecks",
+        "t_name": "fetchtrusterdadvisorscheckstest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "baomidou___mybatis-plus",
+        "commit": "7aa0889af2d9d0b9b3fcb02fa7f4922d8a809b3a",
+        "p_path": "mybatis-plus-core/src/main/java/com/baomidou/mybatisplus/core/MybatisDefaultParameterHandler.java",
+        "t_path": "mybatis-plus-core/src/test/java/com/baomidou/mybatisplus/core/MybatisDefaultParameterHandlerTest.java",
+        "p_name": "processbatch",
+        "t_name": "test",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "rsksmart___rskj",
+        "commit": "f46d64ff330f9a6287104e38e6f7d03937481310",
+        "p_path": "rskj-core/src/main/java/co/rsk/peg/PegUtilsLegacy.java",
+        "t_path": "rskj-core/src/test/java/co/rsk/peg/PegUtilsLegacyTest.java",
+        "p_name": "isvalidpegintx",
+        "t_name": "testisvalidpegintx",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "google___jimfs",
+        "commit": "d03b6ea4de75dcd2de33e93506cc7d0a9430224b",
+        "p_path": "jimfs/src/main/java/com/google/jimfs/internal/DirectoryTable.java",
+        "t_path": "jimfs/src/test/java/com/google/jimfs/internal/DirectoryTableTest.java",
+        "p_name": "snapshot",
+        "t_name": "testsnapshot",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___shenyu",
+        "commit": "dfd5cb3450c2fed2df4f4d9d7bfa3487254d568f",
+        "p_path": "shenyu-spring-boot-starter/shenyu-spring-boot-starter-plugin/shenyu-spring-boot-starter-plugin-httpclient/src/main/java/org/apache/shenyu/springboot/starter/plugin/httpclient/HttpClientPluginConfiguration.java",
+        "t_path": "shenyu-spring-boot-starter/shenyu-spring-boot-starter-plugin/shenyu-spring-boot-starter-plugin-httpclient/src/test/java/org/apache/shenyu/springboot/starter/plugin/httpclient/HttpClientPluginConfigurationTest.java",
+        "p_name": "httpclient",
+        "t_name": "testhttpclient",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "BentoBoxWorld___BentoBox",
+        "commit": "3c65194dfb332ac6beaf8d956bbf4350c0cd9fa5",
+        "p_path": "src/main/java/world/bentobox/bentobox/database/objects/Island.java",
+        "t_path": "src/test/java/world/bentobox/bentobox/database/objects/IslandTest.java",
+        "p_name": "getboundingbox",
+        "t_name": "testgetboundingbox",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___jmeter",
+        "commit": "a699d2bcd6ac155382e0d4a399d82706b3223140",
+        "p_path": "src/protocol/http/src/main/java/org/apache/jmeter/protocol/http/parser/HtmlParsingUtils.java",
+        "t_path": "src/protocol/http/src/test/java/org/apache/jmeter/protocol/http/parser/TestHtmlParsingUtils.java",
+        "p_name": "isanchormatched",
+        "t_name": "testisanchormatched",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "oracle___opengrok",
+        "commit": "202e6da17c47d80154524e76f0789c8c75cb801f",
+        "p_path": "opengrok-indexer/src/main/java/org/opengrok/indexer/index/Indexer.java",
+        "t_path": "opengrok-indexer/src/test/java/org/opengrok/indexer/index/IndexerTest.java",
+        "p_name": "main",
+        "t_name": "testmain",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "opendaylight___controller",
+        "commit": "25ec94fd44c0912d6a00afdcf83110d8d0fb0236",
+        "p_path": "opendaylight/md-sal/sal-distributed-datastore/src/main/java/org/opendaylight/controller/cluster/databroker/actors/dds/AbstractProxyTransaction.java",
+        "t_path": "opendaylight/md-sal/sal-distributed-datastore/src/test/java/org/opendaylight/controller/cluster/databroker/actors/dds/AbstractProxyTransactionTest.java",
+        "p_name": "directcommit",
+        "t_name": "testdirectcommit",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "tmobile___pacbot",
+        "commit": "ddacbe3df1166ac9c8763fed04b7c1b5a756c0ff",
+        "p_path": "jobs/pacman-awsrules/src/main/java/com/tmobile/cloud/awsrules/utils/PacmanUtils.java",
+        "t_path": "jobs/pacman-awsrules/src/test/java/com/tmobile/cloud/awsrules/utils/PacmanUtilsTest.java",
+        "p_name": "getseverityvulnerabilitiesbyinstanceid",
+        "t_name": "getseverityvulnerabilitiesbyinstanceidtest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "10da32b83608a882744212373e3ff4ff2716aadf",
+        "p_path": "src/main/java/org/traccar/protocol/GoSafeProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/GoSafeProtocolDecoderTest.java",
+        "p_name": "decodefragment",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "iluwatar___30-seconds-of-java",
+        "commit": "116110ed2ca8411c54a0327fb40ee15fe4ff96be",
+        "p_path": "src/main/java/Library.java",
+        "t_path": "src/test/java/LibraryTest.java",
+        "p_name": "inputstreamtostring",
+        "t_name": "testinputstreamtostring",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "cdk___cdk",
+        "commit": "07caf475cb7158be67266c095c22fc60115df4fa",
+        "p_path": "tool/formula/src/main/java/org/openscience/cdk/tools/manipulator/MolecularFormulaManipulator.java",
+        "t_path": "tool/formula/src/test/java/org/openscience/cdk/tools/manipulator/MolecularFormulaManipulatorTest.java",
+        "p_name": "findchargeposition",
+        "t_name": "testisotopeandchargeparsing",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "numenta___htm.java",
+        "commit": "ed46d0e71f83df2f5a26e17c8696708ccb9aca44",
+        "p_path": "src/main/java/org/numenta/nupic/model/Synapse.java",
+        "t_path": "src/test/java/org/numenta/nupic/model/SynapseTest.java",
+        "p_name": "equals",
+        "t_name": "testsynapseequality",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "cinchapi___concourse",
+        "commit": "4446f837da407edb8b126f7ecb701b417ea79677",
+        "p_path": "concourse-server/src/main/java/org/cinchapi/concourse/util/TArrays.java",
+        "t_path": "concourse-server/src/test/java/org/cinchapi/concourse/util/TArraysTest.java",
+        "p_name": "hash",
+        "t_name": "testconsistenthashing",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___wicket",
+        "commit": "d14e4726ed2d4d6b6f849e733df6009637581f05",
+        "p_path": "wicket/src/main/java/org/apache/wicket/util/tester/FormTester.java",
+        "t_path": "wicket/src/test/java/org/apache/wicket/util/tester/apps_3/FormTesterTest.java",
+        "p_name": "selectmultiple",
+        "t_name": "testselectmultiple",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "haifengl___smile",
+        "commit": "6bcbeb8e0f054813e9830782ecafe0d624c1acfe",
+        "p_path": "data/src/main/java/smile/data/parser/DelimitedTextParser.java",
+        "t_path": "data/src/test/java/smile/data/parser/DelimitedTextParserTest.java",
+        "p_name": "parse",
+        "t_name": "testparse",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___dubbo",
+        "commit": "7985d476ca956a5e80d09acbd0e8c91304af21ed",
+        "p_path": "dubbo-config/dubbo-config-api/src/main/java/org/apache/dubbo/config/ServiceConfig.java",
+        "t_path": "dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/ServiceConfigTest.java",
+        "p_name": "export",
+        "t_name": "testexport",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___servicecomb-toolkit",
+        "commit": "18d9dd75048f22359dab5df4e38fa208c2a53956",
+        "p_path": "toolkit-maven-plugin/src/main/java/org/apache/servicecomb/toolkit/plugin/GenerateContractsDocMojo.java",
+        "t_path": "toolkit-maven-plugin/src/test/java/plugin/GenerateContractsDocMojoTest.java",
+        "p_name": "execute",
+        "t_name": "testgeneratecontractsdoc",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "spotify___styx",
+        "commit": "e5d3afcbb9b694edf94a0bb35c1b26ceca01bab4",
+        "p_path": "styx-common/src/main/java/com/spotify/styx/util/DockerImageValidator.java",
+        "t_path": "styx-common/src/test/java/com/spotify/styx/util/DockerImageValidatorTest.java",
+        "p_name": "validatedigest",
+        "t_name": "testinvalidimagesfail",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "7fd59ea42fa31a01d1164103735691a30c711580",
+        "p_path": "src/main/java/org/traccar/protocol/Minifinder2ProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/Minifinder2ProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "numenta___htm.java",
+        "commit": "ad0b817d09da47afa5a53832e419cafb1e909d6b",
+        "p_path": "src/main/java/org/numenta/nupic/algorithms/SpatialPooler.java",
+        "t_path": "src/test/java/org/numenta/nupic/algorithms/SpatialPoolerTest.java",
+        "p_name": "getneighborsnd",
+        "t_name": "testgetneighborsnd",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "kungfoo___geohash-java",
+        "commit": "25b514380d87f0f6b6f2348aeb365670f5f955c1",
+        "p_path": "src/main/java/ch/hsr/geohash/GeoHash.java",
+        "t_path": "src/test/java/ch/hsr/geohash/GeoHashTest.java",
+        "p_name": "stepsbetween",
+        "t_name": "teststepsbetween",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___linkis",
+        "commit": "1e25954be41238d7773136a3a4752223f92f0d72",
+        "p_path": "linkis-computation-governance/linkis-manager/linkis-label-common/src/main/java/org/apache/linkis/manager/label/entity/engine/EngineTypeLabel.java",
+        "t_path": "linkis-computation-governance/linkis-manager/linkis-label-common/src/test/java/org/apache/linkis/manager/label/entity/engine/EngineTypeLabelTest.java",
+        "p_name": "setstringvalue",
+        "t_name": "testsetstringvalue",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "googleapis___google-http-java-client",
+        "commit": "2635d5af972ae6604dc3074c86bab669d7d7754e",
+        "p_path": "google-http-client-apache/src/main/java/com/google/api/client/http/apache/ApacheHttpTransport.java",
+        "t_path": "google-http-client-apache/src/test/java/com/google/api/client/http/apache/ApacheHttpTransportTest.java",
+        "p_name": "buildrequest",
+        "t_name": "testrequestswithcontent",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "oracle___opengrok",
+        "commit": "adb61a928b1ba929ef71bd78eef866fcf85f85e0",
+        "p_path": "opengrok-indexer/src/main/java/org/opengrok/indexer/history/HistoryEntry.java",
+        "t_path": "opengrok-indexer/src/test/java/org/opengrok/indexer/history/HistoryEntryTest.java",
+        "p_name": "equals",
+        "t_name": "testequals",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "boyter___searchcode-server",
+        "commit": "ef892fb78ad7fcd6c69a3494484e11369e68086d",
+        "p_path": "src/main/java/com/searchcode/app/service/CodeIndexer.java",
+        "t_path": "src/test/java/com/searchcode/app/service/CodeIndexerTest.java",
+        "p_name": "indexdocuments",
+        "t_name": "testindexdocuments",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "BentoBoxWorld___BentoBox",
+        "commit": "284b5865da5832bc4aaccf97d4e7e357e70f94e3",
+        "p_path": "src/main/java/world/bentobox/bentobox/listeners/flags/worldsettings/ObsidianScoopingListener.java",
+        "t_path": "src/test/java/world/bentobox/bentobox/listeners/flags/worldsettings/ObsidianScoopingListenerTest.java",
+        "p_name": "onplayerinteract",
+        "t_name": "testevent",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___hudi",
+        "commit": "7e9ad053173ea0883503750918d93ab2fff0e6db",
+        "p_path": "hudi-client/hudi-client-common/src/main/java/org/apache/hudi/keygen/KeyGenUtils.java",
+        "t_path": "hudi-client/hudi-client-common/src/test/java/org/apache/hudi/keygen/TestKeyGenUtils.java",
+        "p_name": "extractrecordkeys",
+        "t_name": "testextractrecordkeys",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "FasterXML___jackson-databind",
+        "commit": "8af03c149c2316c390cdfd5302932ec5b0de07e0",
+        "p_path": "src/main/java/com/fasterxml/jackson/databind/util/EnumValues.java",
+        "t_path": "src/test/java/com/fasterxml/jackson/databind/util/EnumValuesTest.java",
+        "p_name": "constructfromname",
+        "t_name": "testconstructfromname",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "8de9a36abef8e66be4fcc248b49045ffd3b5f7ae",
+        "p_path": "src/main/java/org/traccar/protocol/GoSafeProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/GoSafeProtocolDecoderTest.java",
+        "p_name": "decodefragment",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "azkaban___azkaban",
+        "commit": "bd65ea10d06c1f272ca6c39a7348b38fa0da230c",
+        "p_path": "azkaban-common/src/main/java/azkaban/storage/LocalStorage.java",
+        "t_path": "azkaban-common/src/test/java/azkaban/storage/LocalStorageTest.java",
+        "p_name": "put",
+        "t_name": "testputget",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jMonkeyEngine___jmonkeyengine",
+        "commit": "165cb5984057bf2173e309b16666d0a4ec45ea88",
+        "p_path": "jme3-core/src/main/java/com/jme3/scene/Spatial.java",
+        "t_path": "jme3-core/src/test/java/com/jme3/scene/SpatialTest.java",
+        "p_name": "addcontrolat",
+        "t_name": "testaddcontrolat",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "appfuse___appfuse",
+        "commit": "3ac5544c3173ba71f8aa431177e7fab6b4fdfa0e",
+        "p_path": "service/src/main/java/org/appfuse/service/impl/UserManagerImpl.java",
+        "t_path": "service/src/test/java/org/appfuse/service/impl/UserManagerImplTest.java",
+        "p_name": "saveuser",
+        "t_name": "testsaveuser",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "j256___ormlite-core",
+        "commit": "1e4102aab95637995183189121e5835930f8521a",
+        "p_path": "src/main/java/com/j256/ormlite/misc/JavaxPersistenceImpl.java",
+        "t_path": "src/test/java/com/j256/ormlite/misc/JavaxPersistenceTest.java",
+        "p_name": "createfieldconfig",
+        "t_name": "testconversions",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "cmu-phil___tetrad",
+        "commit": "e8c30c23d606b7ca2b13e834b56dabdb7974ccc0",
+        "p_path": "tetrad-cli/src/main/java/edu/cmu/tetrad/cli/data/validation/ZeroVarianceVariablesCli.java",
+        "t_path": "tetrad-cli/src/test/java/edu/cmu/tetrad/cli/data/validation/ZeroVarianceVariablesCliTest.java",
+        "p_name": "main",
+        "t_name": "testmain",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "cc-tweaked___CC-Tweaked",
+        "commit": "06bf84f1512c68eefcdedb16edb44e9dcb84de4c",
+        "p_path": "src/main/java/dan200/computercraft/core/terminal/Terminal.java",
+        "t_path": "src/test/java/dan200/computercraft/core/terminal/TerminalTest.java",
+        "p_name": "getcolour",
+        "t_name": "testgetcolour",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "linkedin___rest.li",
+        "commit": "6826f04821aae3e37e223289aa6dc87666785f26",
+        "p_path": "restli-client/src/main/java/com/linkedin/restli/client/DefaultScatterGatherStrategy.java",
+        "t_path": "restli-client/src/test/java/com/linkedin/restli/client/TestDefaultScatterGatherStrategy.java",
+        "p_name": "scatterrequest",
+        "t_name": "testscatterrequest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "numenta___htm.java",
+        "commit": "32587c45032f231c6ef50d708169583c8bbc7b9d",
+        "p_path": "src/main/java/org/numenta/nupic/monitor/mixin/MetricsTrace.java",
+        "t_path": "src/test/java/org/numenta/nupic/monitor/mixin/MetricsTraceTest.java",
+        "p_name": "prettyprintdatum",
+        "t_name": "testprettyprintdatum",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "stefan-niedermann___nextcloud-deck",
+        "commit": "b99489209e2d2db6abff902f186b9d5b0703e9e1",
+        "p_path": "app/src/main/java/it/niedermann/nextcloud/deck/ui/card/comments/util/CommentsUtil.java",
+        "t_path": "app/src/test/java/it/niedermann/nextcloud/deck/CommentsUtilTest.java",
+        "p_name": "getusernameformentionproposal",
+        "t_name": "testmentiondiscovery",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "naver___ngrinder",
+        "commit": "302034b0a2d0fd7c9cdd2ddfc5aaafc42997366d",
+        "p_path": "ngrinder-controller/src/main/java/org/ngrinder/user/controller/UserController.java",
+        "t_path": "ngrinder-controller/src/test/java/org/ngrinder/user/controller/UserControllerTest.java",
+        "p_name": "saveorupdateuserdetail",
+        "t_name": "testsaveorupdateuserdetail",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "OpenHFT___Chronicle-Bytes",
+        "commit": "b188abe8adc62ca32e4741e4310d24a090b4fc6d",
+        "p_path": "src/main/java/net/openhft/chronicle/bytes/util/StringInternerBytes.java",
+        "t_path": "src/test/java/net/openhft/chronicle/bytes/util/StringInternerBytesTest.java",
+        "p_name": "intern",
+        "t_name": "testintern",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "PaladinCloud___CE",
+        "commit": "90d41b6fdcf06c6449ddd6f6e8cdcf405ff0995d",
+        "p_path": "jobs/pacman-awsrules/src/main/java/com/tmobile/cloud/awsrules/ecr/ImagesScannedByAquaRule.java",
+        "t_path": "jobs/pacman-awsrules/src/test/java/com/tmobile/cloud/awsrules/ecr/ImagesScannedByAquaRuleTest.java",
+        "p_name": "execute",
+        "t_name": "executetest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "PaladinCloud___CE",
+        "commit": "a55289458e1ba6c0ab283196bff48e6808509f61",
+        "p_path": "api/pacman-api-admin/src/main/java/com/tmobile/pacman/api/admin/controller/PolicyController.java",
+        "t_path": "api/pacman-api-admin/src/test/java/com/tmobile/pacman/api/admin/controller/PolicyControllerTest.java",
+        "p_name": "getpolicies",
+        "t_name": "getpoliciestest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "e73f36db83b9dc00a5dfe0a9625f40bd2698c3fa",
+        "p_path": "src/main/java/org/traccar/protocol/Gl200TextProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/Gl200TextProtocolDecoderTest.java",
+        "p_name": "decodeeri",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___incubator-uniffle",
+        "commit": "5ac76e8179a7c038855d439bfbdc9bf759f3f108",
+        "p_path": "client-spark/common/src/main/java/org/apache/spark/shuffle/writer/WriteBufferManager.java",
+        "t_path": "client-spark/common/src/test/java/org/apache/spark/shuffle/writer/WriteBufferManagerTest.java",
+        "p_name": "buildblockevents",
+        "t_name": "buildblockeventstest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "signalapp___Signal-Server",
+        "commit": "4fa10e57834e61222c5cda04cafb70d311572e83",
+        "p_path": "service/src/main/java/org/whispersystems/textsecuregcm/metrics/MetricsRequestEventListener.java",
+        "t_path": "service/src/test/java/org/whispersystems/textsecuregcm/metrics/MetricsRequestEventListenerTest.java",
+        "p_name": "onevent",
+        "t_name": "testonevent",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "qupath___qupath",
+        "commit": "199a8f98b304195c9a91b82980545a185f81da53",
+        "p_path": "qupath-core/src/main/java/qupath/lib/common/GeneralTools.java",
+        "t_path": "qupath-core/src/test/java/qupath/lib/common/TestGeneralTools.java",
+        "p_name": "topath",
+        "t_name": "test_topath",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "bwaldvogel___mongo-java-server",
+        "commit": "9978066a17dbafa049a921500b15e9da6ca3280d",
+        "p_path": "core/src/main/java/de/bwaldvogel/mongo/backend/projection/Projection.java",
+        "t_path": "core/src/test/java/de/bwaldvogel/mongo/backend/projection/ProjectionTest.java",
+        "p_name": "projectdocument",
+        "t_name": "testprojectdocument",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "f020e0472d4544c7f968d8fb2504ad8e85174a49",
+        "p_path": "src/main/java/org/traccar/protocol/FlexApiProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/FlexApiProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "javamelody___javamelody",
+        "commit": "e435f6ba09527ef2c47bdd13b53a5d3b891dfff0",
+        "p_path": "javamelody-core/src/main/java/net/bull/javamelody/Parameters.java",
+        "t_path": "javamelody-core/src/test/java/net/bull/javamelody/TestParameters.java",
+        "p_name": "getstoragedirectory",
+        "t_name": "testgetstoragedirectory",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "signalapp___Signal-Server",
+        "commit": "71c7e305480aa3cb8af8c99ae04a20e925e3af47",
+        "p_path": "service/src/main/java/org/whispersystems/textsecuregcm/controllers/StickerController.java",
+        "t_path": "service/src/test/java/org/whispersystems/textsecuregcm/tests/controllers/StickerControllerTest.java",
+        "p_name": "getstickersform",
+        "t_name": "testcreatepack",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "dd6a607b66d0a0f794448e8ac148288a7bba484d",
+        "p_path": "src/main/java/org/traccar/protocol/AvemaProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/AvemaProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "HdrHistogram___HdrHistogram",
+        "commit": "69064c4cc9837ef8178452eb56aef7184a550c84",
+        "p_path": "src/main/java/org/HdrHistogram/DoubleHistogram.java",
+        "t_path": "src/test/java/org/HdrHistogram/DoubleHistogramTest.java",
+        "p_name": "reset",
+        "t_name": "testreset",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "4a05b4c4810c430a286f43c2739d04004f90e053",
+        "p_path": "src/main/java/org/traccar/protocol/FreematicsProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/FreematicsProtocolDecoderTest.java",
+        "p_name": "decodeposition",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "weliem___blessed-android",
+        "commit": "ed33488ca04c2fdfe6338cb701400760f555b012",
+        "p_path": "blessed/src/main/java/com/welie/blessed/BluetoothCentral.java",
+        "t_path": "blessed/src/test/java/com/welie/blessed/BluetoothCentralTest.java",
+        "p_name": "connectperipheral",
+        "t_name": "connectperipheraltest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "SonarSource___sonar-java",
+        "commit": "9fe82b91b6395c9eaf27ae7acff428738684fdcb",
+        "p_path": "sonar-java-plugin/src/main/java/org/sonar/plugins/java/JavaRulesDefinition.java",
+        "t_path": "sonar-java-plugin/src/test/java/org/sonar/plugins/java/JavaRulesDefinitionTest.java",
+        "p_name": "define",
+        "t_name": "test",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "18d8ec9610944aee95aa01ffbe402f3d0c30c39a",
+        "p_path": "src/main/java/org/traccar/protocol/TeraTrackProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/TeraTrackProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "azkaban___azkaban",
+        "commit": "2ce3bf29bc9acaea4c0dd7fc375925b3f4ca359c",
+        "p_path": "azkaban-common/src/main/java/azkaban/executor/ExecutionFlowDao.java",
+        "t_path": "azkaban-common/src/test/java/azkaban/executor/ExecutionFlowDaoTest.java",
+        "p_name": "fetchrecentlyfinishedflows",
+        "t_name": "testfetchrecentlyfinishedflows",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "reactor___reactor-netty",
+        "commit": "303f3bb73d8e6ff0d3c9326f0ba9b8448f42b2cf",
+        "p_path": "src/main/java/reactor/netty/http/HttpOperations.java",
+        "t_path": "src/test/java/reactor/netty/http/HttpOperationsTest.java",
+        "p_name": "resolvepath",
+        "t_name": "testissue948",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "runelite___runelite",
+        "commit": "2d01ea2fb7d9f0919bef356c2c566b2ac35666d4",
+        "p_path": "runelite-client/src/main/java/net/runelite/client/plugins/bank/BankPlugin.java",
+        "t_path": "runelite-client/src/test/java/net/runelite/client/plugins/bank/BankPluginTest.java",
+        "p_name": "valuesearch",
+        "t_name": "testvaluesearch",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "iluwatar___30-seconds-of-java",
+        "commit": "103878df5dba0c30edae8098e6fd900d9a9d6b7d",
+        "p_path": "src/main/java/math/HaversineFormulaSnippet.java",
+        "t_path": "src/test/java/math/HaversineFormulaSnippetTest.java",
+        "p_name": "findhaversinedistance",
+        "t_name": "testfindhaversinedistance",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "shred___acme4j",
+        "commit": "5ad28394e984971da12d8800b163087a0023a4ad",
+        "p_path": "acme4j-client/src/main/java/org/shredzone/acme4j/connector/DefaultConnection.java",
+        "t_path": "acme4j-client/src/test/java/org/shredzone/acme4j/connector/DefaultConnectionTest.java",
+        "p_name": "readjsonresponse",
+        "t_name": "testreadjsonresponse",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "FasterXML___jackson-core",
+        "commit": "7c3e56b62140897ece2cac404d8bba6f0e66d102",
+        "p_path": "src/main/java/com/fasterxml/jackson/core/Base64Variant.java",
+        "t_path": "src/test/java/com/fasterxml/jackson/core/base64/TestBase64Codec.java",
+        "p_name": "decode",
+        "t_name": "testerrors",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "spotify___styx",
+        "commit": "5d30ef867882df066e7dde651eb643424f1f0b6d",
+        "p_path": "styx-scheduler-service/src/main/java/com/spotify/styx/flyte/FlyteAdminClientRunner.java",
+        "t_path": "styx-scheduler-service/src/test/java/com/spotify/styx/flyte/FlyteAdminClientRunnerTest.java",
+        "p_name": "createexecution",
+        "t_name": "testcreateexecutionspopulateslabelsannotationsandextradefaultinputs",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "88a97769de8369ae518dfc807185e7336c570ef8",
+        "p_path": "dependency-check-core/src/main/java/org/owasp/dependencycheck/data/update/EngineVersionCheck.java",
+        "t_path": "dependency-check-core/src/test/java/org/owasp/dependencycheck/data/update/EngineVersionCheckTest.java",
+        "p_name": "shouldupdate",
+        "t_name": "testshouldupdate",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "getrebuild___rebuild",
+        "commit": "05446d20145c1f226e5cbe496ff54e0168c5916f",
+        "p_path": "src/main/java/com/rebuild/web/admin/entityhub/MetaFieldControll.java",
+        "t_path": "src/test/java/com/rebuild/web/admin/entityhub/MetaFieldControllTest.java",
+        "p_name": "pageentityfield",
+        "t_name": "testpageentityfield",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "microsoft___appcenter-sdk-android",
+        "commit": "299a8853230c2cb7ce474894ac4facd6df8e822a",
+        "p_path": "sdk/appcenter/src/main/java/com/microsoft/appcenter/utils/context/AuthTokenContext.java",
+        "t_path": "sdk/appcenter/src/test/java/com/microsoft/appcenter/utils/context/AuthTokenContextTest.java",
+        "p_name": "setauthtoken",
+        "t_name": "setauthtokentest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "indeedeng___proctor",
+        "commit": "1fbc28e58c400ab57b390ea854814e48749f5c0a",
+        "p_path": "src/main/java/com/indeed/proctor/webapp/controllers/ProctorTestDefinitionController.java",
+        "t_path": "src/test/java/com/indeed/proctor/webapp/controllers/TestProctorTestDefinitionController.java",
+        "p_name": "isallocationonlychange",
+        "t_name": "testallocationonlychangedetection",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "facebook___litho",
+        "commit": "74eef57cf91a9cbe1b2fcee0f72c8a77703ea435",
+        "p_path": "litho-processor/src/main/java/com/facebook/litho/specmodels/model/CachedValueValidation.java",
+        "t_path": "litho-it/src/test/java/com/facebook/litho/specmodels/model/CachedValueValidationTest.java",
+        "p_name": "validate",
+        "t_name": "testoncalculatecachedvaluewithbadparams",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "93e9d449d187bc3947ca76a1f3bdd4f02b37752c",
+        "p_path": "src/main/java/org/traccar/protocol/NavtelecomProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/NavtelecomProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "javamelody___javamelody",
+        "commit": "5e38cd3748b7b75bcee695975c519ba9fbdb4bbd",
+        "p_path": "javamelody-core/src/main/java/net/bull/javamelody/LabradorRetriever.java",
+        "t_path": "javamelody-core/src/test/java/net/bull/javamelody/TestLabradorRetriever.java",
+        "p_name": "copyto",
+        "t_name": "testcopyto",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "7cfae9b852f147423b7dd58bad2b0fdcf10bb9d0",
+        "p_path": "src/main/java/org/traccar/protocol/PacificTrackProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/PacificTrackProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "iipc___openwayback",
+        "commit": "40d794abe61b6b1fb1a43d0e531d4f6d8ee34069",
+        "p_path": "wayback-core/src/main/java/org/archive/wayback/util/htmllex/ContextAwareLexer.java",
+        "t_path": "wayback-core/src/test/java/org/archive/wayback/util/htmllex/ContextAwareLexerTest.java",
+        "p_name": "nextnode",
+        "t_name": "testnextnode",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "cdk___cdk",
+        "commit": "a7fcc60e872cfe6926e81c72560aaaa3f0f7bcbf",
+        "p_path": "src/main/org/openscience/cdk/geometry/volume/VABCVolume.java",
+        "t_path": "src/test/org/openscience/cdk/geometry/volume/VABCVolumeTest.java",
+        "p_name": "calculate",
+        "t_name": "testmethane",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "ClickHouse___clickhouse-java",
+        "commit": "446536fb29ebbaf4bf03805ae4c428d26db19f51",
+        "p_path": "src/main/java/ru/yandex/clickhouse/response/ByteFragmentUtils.java",
+        "t_path": "src/test/java/ru/yandex/clickhouse/response/ByteFragmentUtilsTest.java",
+        "p_name": "parsearray",
+        "t_name": "testparsearray",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___hudi",
+        "commit": "7f20e108897f593e5d92181f071bc40fa15391f4",
+        "p_path": "hudi-common/src/main/java/org/apache/hudi/common/fs/FSUtils.java",
+        "t_path": "hudi-common/src/test/java/org/apache/hudi/common/fs/TestFSUtils.java",
+        "p_name": "makequalified",
+        "t_name": "testmakequalified",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "bitcoinj___bitcoinj",
+        "commit": "0ada33d2b10cde247484e765bccad5f359494056",
+        "p_path": "core/src/main/java/com/google/bitcoin/core/FullPrunedBlockChain.java",
+        "t_path": "core/src/test/java/com/google/bitcoin/core/FullPrunedBlockChainTest.java",
+        "p_name": "connecttransactions",
+        "t_name": "testgeneratedchain",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "007b4007e063cfb966a4024ef267992a4f1f9ccb",
+        "p_path": "src/main/java/org/traccar/protocol/TopinProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/TopinProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "UniversalMediaServer___UniversalMediaServer",
+        "commit": "233d1673131b07d9c2054b67b443cb08f80f2da1",
+        "p_path": "src/main/java/net/pms/util/FileUtil.java",
+        "t_path": "src/test/java/net/pms/util/FileUtilTest.java",
+        "p_name": "getfilenamewithrewriting",
+        "t_name": "testgetfilenamewithrewriting",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "j256___ormlite-core",
+        "commit": "5a388cdb6898d900bfe9eed3a94a94ab92fb1605",
+        "p_path": "src/main/java/com/j256/ormlite/table/TableInfo.java",
+        "t_path": "src/test/java/com/j256/ormlite/table/TableInfoTest.java",
+        "p_name": "objecttostring",
+        "t_name": "testobjecttostring",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "amaembo___streamex",
+        "commit": "144af601b2dd0be79a7583bdeeb8a7d3d4688a54",
+        "p_path": "src/main/java/javax/util/streamex/MoreCollectors.java",
+        "t_path": "src/test/java/javax/util/streamex/MoreCollectorsTest.java",
+        "p_name": "joining",
+        "t_name": "testjoining",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "javamelody___javamelody",
+        "commit": "e0cf6cec78f7d0f12465e202e345967788e12cd3",
+        "p_path": "javamelody-core/src/main/java/net/bull/javamelody/Parameters.java",
+        "t_path": "javamelody-core/src/test/java/net/bull/javamelody/TestParameters.java",
+        "p_name": "getresolutionseconds",
+        "t_name": "testgetresolutionseconds",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___kylin",
+        "commit": "6f5030377d588d0180e5e050e65e2827ed9b7a03",
+        "p_path": "src/common-service/src/main/java/org/apache/kylin/rest/service/ProjectService.java",
+        "t_path": "src/modeling-service/src/test/java/org/apache/kylin/rest/service/ProjectServiceTest.java",
+        "p_name": "updatejobnotificationconfig",
+        "t_name": "testjobnotificationconfig",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "dromara___hutool",
+        "commit": "f4a5b8b9b7c7c87243b2500cbcbb8c71f8f6ffe4",
+        "p_path": "hutool-core/src/main/java/cn/hutool/core/util/NumberUtil.java",
+        "t_path": "hutool-core/src/test/java/cn/hutool/core/util/NumberUtilTest.java",
+        "p_name": "isnumber",
+        "t_name": "isnumbertest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___struts",
+        "commit": "49a27d1b25e8ba79ce5d30aff41b1c1581a2bab8",
+        "p_path": "plugins/cdi/src/main/java/org/apache/struts2/cdi/CdiObjectFactory.java",
+        "t_path": "plugins/cdi/src/test/java/org/apache/struts2/cdi/CdiObjectFactoryTest.java",
+        "p_name": "getinjectiontarget",
+        "t_name": "testgetinjectiontarget",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "PaladinCloud___CE",
+        "commit": "b546c48b10bf8282fc29d0f98e0fa37169f1a23f",
+        "p_path": "api/pacman-api-compliance/src/main/java/com/tmobile/pacman/api/compliance/repository/ComplianceRepositoryImpl.java",
+        "t_path": "api/pacman-api-compliance/src/test/java/com/tmobile/pacman/api/compliance/repository/ComplianceRepositoryImplTest.java",
+        "p_name": "exemptandupdatemultipleissuedetails",
+        "t_name": "exemptandupdatemultipleissuedetailstest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "HTTP-RPC___Kilo",
+        "commit": "00fdce8fb9ba2fbcf36d2a3f27aeafe709166461",
+        "p_path": "httprpc-client/src/main/java/org/httprpc/sql/QueryBuilder.java",
+        "t_path": "httprpc-client/src/test/java/org/httprpc/sql/QueryBuilderTest.java",
+        "p_name": "tostring",
+        "t_name": "testtostring",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "8458c3f3cbf6a42fde3d455c9c231498ca0fa184",
+        "p_path": "src/main/java/org/traccar/protocol/SnapperProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/SnapperProtocolDecoderTest.java",
+        "p_name": "decode",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___commons-io",
+        "commit": "08bf6d00e4e1566fb67a2e06cc63e3f31d0aa171",
+        "p_path": "src/main/java/org/apache/commons/io/FileUtils.java",
+        "t_path": "src/test/java/org/apache/commons/io/FileUtilsTest.java",
+        "p_name": "contentequals",
+        "t_name": "testcontentequals",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "jeremylong___DependencyCheck",
+        "commit": "7bd48cc8118a7667bf5adcd144d723ebfef3427b",
+        "p_path": "dependency-check-core/src/main/java/org/owasp/dependencycheck/utils/DependencyVersion.java",
+        "t_path": "dependency-check-core/src/test/java/org/owasp/dependencycheck/utils/DependencyVersionTest.java",
+        "p_name": "matchesatleastthreelevels",
+        "t_name": "testmatchesatleastthreelevels",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "FasterXML___jackson-databind",
+        "commit": "9e2a4a95c4083d9386130aad42b676d92b3bfb43",
+        "p_path": "src/main/java/com/fasterxml/jackson/databind/ObjectMapper.java",
+        "t_path": "src/test/java/com/fasterxml/jackson/databind/module/SimpleModuleTest.java",
+        "p_name": "getregisteredmoduleids",
+        "t_name": "testgetregisteredmodules",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "MuntashirAkon___AppManager",
+        "commit": "200454d82c0771782628fa59eb48a1cd7bbed5d1",
+        "p_path": "app/src/main/java/io/github/muntashirakon/AppManager/utils/TarUtils.java",
+        "t_path": "app/src/test/java/io/github/muntashirakon/AppManager/utils/TarUtilsTest.java",
+        "p_name": "extract",
+        "t_name": "extracttest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "puniverse___capsule",
+        "commit": "3381049dd2c252591e32a0efd307f61d4e7c9a50",
+        "p_path": "capsule/src/main/java/Capsule.java",
+        "t_path": "capsule/src/test/java/CapsuleTest.java",
+        "p_name": "delete",
+        "t_name": "testdelete",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "alibaba___nacos",
+        "commit": "d83019cf597b83767ab15ed3ed53efb9ee04794c",
+        "p_path": "core/src/main/java/com/alibaba/nacos/core/storage/StorageFactory.java",
+        "t_path": "core/src/test/java/com/alibaba/nacos/core/storage/StorageFactoryTest.java",
+        "p_name": "createkvstorage",
+        "t_name": "testcreatekvstorage",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "apache___commons-dbutils",
+        "commit": "edafd03ede4a497d8c44848e269cddd08ef4197f",
+        "p_path": "src/main/java/org/apache/commons/dbutils/handlers/ArrayHandler.java",
+        "t_path": "src/test/java/org/apache/commons/dbutils/handlers/ArrayHandlerTest.java",
+        "p_name": "handle",
+        "t_name": "testemptyresultsethandle",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jmrozanec___cron-utils",
+        "commit": "16b8483e0171c478b499c0eca8bd88fcf91864b6",
+        "p_path": "src/main/java/com/cronutils/parser/CronParser.java",
+        "t_path": "src/test/java/com/cronutils/parser/CronParserQuartzIntegrationTest.java",
+        "p_name": "parse",
+        "t_name": "testmissingexpressionandinvalidcharsinerrormessage",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "apache___kafka",
+        "commit": "131f96868aa24f38f69ee2ab769ea3f289e5c1fc",
+        "p_path": "clients/src/main/java/org/apache/kafka/clients/consumer/internals/Fetcher.java",
+        "t_path": "clients/src/test/java/org/apache/kafka/clients/consumer/internals/FetcherTest.java",
+        "p_name": "parserecord",
+        "t_name": "testparseinvalidrecord",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "jdereg___java-util",
+        "commit": "9eadd181bb67725de34170c6c1e1c3ec9ec4cd81",
+        "p_path": "src/main/java/com/cedarsoftware/util/SystemUtilities.java",
+        "t_path": "src/test/java/com/cedarsoftware/util/TestSystemUtilities.java",
+        "p_name": "getexternalvariable",
+        "t_name": "testgetexternalvariable",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "ClickHouse___clickhouse-java",
+        "commit": "0981b55e2d472ff8c7a11203bbd7447e4b044b66",
+        "p_path": "src/main/java/ru/yandex/clickhouse/util/TypeUtils.java",
+        "t_path": "src/test/java/ru/yandex/clickhouse/util/TypeUtilsTest.java",
+        "p_name": "getcolumnsize",
+        "t_name": "testgetcolumnsize",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "speedment___speedment",
+        "commit": "aff13d2577aef8b4f26e7d697a697d8eb53f2106",
+        "p_path": "src/main/java/com/speedment/internal/util/Lazy.java",
+        "t_path": "src/test/java/com/speedment/internal/util/LazyTest.java",
+        "p_name": "getorcompute",
+        "t_name": "testgetorcompute",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "cdk___cdk",
+        "commit": "584f92dadd8d9cf5e5e3e137b742b05956de8713",
+        "p_path": "src/main/org/openscience/cdk/io/MDLV2000Reader.java",
+        "t_path": "src/test/org/openscience/cdk/io/MDLV2000ReaderTest.java",
+        "p_name": "readpropertiesslow",
+        "t_name": "testaliaspropertygroup",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "Atmosphere___atmosphere",
+        "commit": "ce6c3403e52d1c1abb86f2f3d5a1ae9a9e4425ac",
+        "p_path": "modules/cpr/src/main/java/org/atmosphere/cpr/DefaultBroadcasterFactory.java",
+        "t_path": "modules/cpr/src/test/java/org/atmosphere/cpr/DefaultBroadcasterFactoryTest.java",
+        "p_name": "remove",
+        "t_name": "testremove",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "box___mojito",
+        "commit": "d7db1a481fce296c590c3fae282d46bd94c87971",
+        "p_path": "webapp/src/main/java/com/box/l10n/mojito/service/leveraging/AbstractLeverager.java",
+        "t_path": "webapp/src/test/java/com/box/l10n/mojito/service/assetExtraction/AssetMappingServiceTest.java",
+        "p_name": "getleveragecomment",
+        "t_name": "testsourceleveraging",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "spring-attic___spring-security-oauth",
+        "commit": "3a7af198a4d6afdb487ce12b3792532ca612fcc6",
+        "p_path": "spring-security-oauth/src/main/java/org/springframework/security/oauth/consumer/OAuthConsumerContextFilter.java",
+        "t_path": "spring-security-oauth/src/test/java/org/springframework/security/oauth/consumer/TestOAuthConsumerContextFilter.java",
+        "p_name": "dofilter",
+        "t_name": "testdofilter",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "spotify___helios",
+        "commit": "e46845a096880a58d4fe6afe34068cb3e561bf95",
+        "p_path": "helios-client/src/main/java/com/spotify/helios/client/GoogleCredentialsAccessTokenSupplier.java",
+        "t_path": "helios-client/src/test/java/com/spotify/helios/client/GoogleCredentialsAccessTokenSupplierTest.java",
+        "p_name": "get",
+        "t_name": "testgetwithcredentials",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "Hive2Hive___Hive2Hive",
+        "commit": "7934cc608e5a6e4647d7ac8ad410678196004237",
+        "p_path": "org.hive2hive.core/src/main/java/org/hive2hive/core/security/EncryptionUtil.java",
+        "t_path": "org.hive2hive.core/src/test/java/org/hive2hive/core/security/EncryptionUtilTest.java",
+        "p_name": "generatersakeypair",
+        "t_name": "generatersakeypairtest",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "Graylog2___graylog2-server",
+        "commit": "9bc5c65a13c88f03eb3c7505328b445b9a990abf",
+        "p_path": "graylog2-server/src/main/java/org/graylog2/indexer/Deflector.java",
+        "t_path": "graylog2-server/src/test/java/org/graylog2/indexer/DeflectorTest.java",
+        "p_name": "isgraylog2index",
+        "t_name": "testisgraylog2index",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "runelite___runelite",
+        "commit": "d4a74501b7888127871f299f207acdcc18a6617b",
+        "p_path": "src/main/java/net/runelite/deob/deobfuscators/IllegalStateExceptions.java",
+        "t_path": "src/test/java/net/runelite/deob/deobfuscators/IllegalStateExceptionsTest.java",
+        "p_name": "run",
+        "t_name": "testrun",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "traccar___traccar",
+        "commit": "5c26f25b3b0afc509c76bfc4a111dbc383efee26",
+        "p_path": "src/main/java/org/traccar/protocol/MeitrackProtocolDecoder.java",
+        "t_path": "src/test/java/org/traccar/protocol/MeitrackProtocolDecoderTest.java",
+        "p_name": "decodebinarye",
+        "t_name": "testdecode",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "soabase___exhibitor",
+        "commit": "ef4263d5a9436c0a65f9421d72257fcdaffd597f",
+        "p_path": "exhibitor-core/src/main/java/com/netflix/exhibitor/core/servo/ZookeeperMonitoredData.java",
+        "t_path": "exhibitor-core/src/test/java/com/netflix/exhibitor/core/servo/TestGetMonitorData.java",
+        "p_name": "updatevalues",
+        "t_name": "testsimple",
+        "auto-tool-flag": 1,
+        "manual-inspection-flag": 1
+    },
+    {
+        "repo_name": "Graylog2___graylog2-server",
+        "commit": "50ad078d1073fb39d833e17a2b630f97a3c45f75",
+        "p_path": "src/main/java/org/graylog2/buffers/processors/ProcessBufferProcessor.java",
+        "t_path": "src/test/java/org/graylog2/buffers/processors/ProcessBufferProcessorTest.java",
+        "p_name": "onevent",
+        "t_name": "testonevent",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    },
+    {
+        "repo_name": "DependencyTrack___dependency-track",
+        "commit": "cd079e4edafb3d8fbcc7e536ab43b0810106fc71",
+        "p_path": "src/main/java/org/dependencytrack/persistence/DefaultObjectGenerator.java",
+        "t_path": "src/test/java/org/dependencytrack/persistence/DefaultObjectGeneratorTest.java",
+        "p_name": "loaddefaultrepositories",
+        "t_name": "testloaddefaultrepositories",
+        "auto-tool-flag": 0,
+        "manual-inspection-flag": 0
+    }
+]
