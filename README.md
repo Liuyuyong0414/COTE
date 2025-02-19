@@ -1,6 +1,6 @@
 # _COTE_
 
-_**COTE**_ (_**CO**de-to-**T**est co-**E**volution_), a hybrid approach which combines pattern- and Transformer-based techniques, to predict code-to-test co-evolution.
+_**COTE**_ (_**CO**de-to-**T**est co-**E**volution_), a hybrid approach which combines pattern- and PLM-based techniques, to predict code-to-test co-evolution.
 
 <p align="center">
   <span style="font-size: 20px; font-weight: bold;">Overview of COTE</span>
@@ -47,7 +47,7 @@ The implementation of the baseline method can be found at https://github.com/CEP
 ## 02. About the Data
 
 We have placed all the data collected and reviewed during the experiment in the ./data/ directory.
-The groundtruth folder contains the collected ground truth data and its review results, while the Manual Analysis folder contains the review results for FN and FP related to RQ5. Additionally, we have collected datasets for projects with fewer stars, which are stored in the 'Low-starred Projects' folder.
+The groundtruth folder contains the collected ground truth data and its review results, while the Manual Analysis folder contains the review results for FN and FP related to RQ4. Additionally, we have collected datasets for projects with fewer stars, which are stored in the 'Low-starred Projects' folder.
 
 All files are presented in the form of json files. Their common keys represent the following meanings:
 
@@ -68,6 +68,6 @@ In particular, in the inspection.json file, the meanings of the additional keys 
 - **auto-tool-flag**: Labels defined based on heuristic rules
 - **manual-inspection-flag**: Labels defined based on manual review
 
-In the RQ5_FN.json file, the meanings of the additional keys are as follows:
+In the RQ4_FN.json file, the meanings of the additional keys are as follows:
 
 - **Reason**: The reasons we believe the model failed to classify
