@@ -44,7 +44,7 @@ STEP4: python eval.py --model_name "the PLM you use"
 
 The implementation of the baseline method can be found at https://github.com/CEPROTest/CEPROT
 
-## 02. About the Data
+## 2. About the Data
 
 We have placed all the data collected and reviewed during the experiment in the ./data/ directory.
 The groundtruth folder contains the collected ground truth data and its review results, while the Manual Analysis folder contains the review results for FN and FP related to RQ4. Additionally, we have collected datasets for projects with fewer stars, which are stored in the 'Low-starred Projects' folder.
