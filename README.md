@@ -39,7 +39,7 @@ STEP3: Experiment Configuration: Open config.py to set related parameters such a
 
 STEP4: Training: Run the command python main.py --model_name "the PLM you use". The trained model weights will be saved in the model_save folder by default
 
-STEP5: Evaluation: You can load the trained model weights in eval.py and evaluate on test set 1
+STEP5: Evaluation: You can load the trained model weights in eval.py and evaluate on test set
 
 ```
 
