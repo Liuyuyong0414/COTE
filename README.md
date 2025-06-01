@@ -31,9 +31,16 @@ Our method is based on pytorch. The core code is placed in the COTE folder. The 
 To train our model, you need to do the following:
 
 ```
-STEP1: download the PLM weight file in the ./COTE/model/ folder
-STEP2: Use our data or your data to divide the training set and validation set, and configure the path in the config file
-STEP3: python main.py --model_name "the PLM you use"
+STEP1: Base Model Preparation: Download the PLM weight file into the ./COTE/model/ folder from open-source websites such as https://huggingface.co/
+
+STEP2: Dataset Splitting: Use our data or your own data to divide the training set and validation set
+
+STEP3: Experiment Configuration: Open config.py to set related parameters such as learning rate, batch size, etc. The default values are the ones used in our experiments
+
+STEP4: Training: Run the command python main.py --model_name "the PLM you use". The trained model weights will be saved in the model_save folder by default
+
+STEP5: Evaluation: You can load the trained model weights in eval.py and evaluate on test set 1
+
 ```
 
 To evluate our model, please use the following scripts:
