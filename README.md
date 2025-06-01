@@ -78,3 +78,12 @@ In particular, in the inspection.json file, the meanings of the additional keys 
 In the RQ4_FN.json file, the meanings of the additional keys are as follows:
 
 - **Reason**: The reasons we believe the model failed to classify
+
+
+If you would like to use our dataset, you can find it in the `data/groundtruth` directory:
+
+- Positive samples: `positive.json`  
+- Negative samples: `negative.json`
+
+These files contain the labeled examples used in our experiments. You can shuffle and randomly split them into training and testing sets to reproduce our method.  
+Feel free to use the dataset within the bounds of legal and ethical guidelines.
